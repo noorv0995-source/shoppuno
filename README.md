@@ -25,3 +25,4 @@ This is a static affiliate website for `shoppuno.com`.
 - `affiliate-disclosure.html` - affiliate disclosure page
 - `privacy.html` - privacy policy
 - `terms.html` - terms of use
+- Connected to Cloudflare builds.
