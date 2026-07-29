@@ -42,6 +42,35 @@
       "category": "woman-jeans",
       "group": "Woman",
       "editorNote": "A bold wide-leg shape that works with cropped knits, fitted tees, fitted shirts, and clean sneakers or boots."
+    },
+    {
+      "affiliateUrl": "https://www.amazon.com/CIDER-Striped-Sweater-Sleeve-Knitwear/dp/B0G5736LGV?crid=AXN4VE3F5ESC&dib=eyJ2IjoiMSJ9.IYs10t8K5uetQNHeA32zDdQvxm4Vto4e7fr8D4YWq8jBOTOj36ZnZ_5uMDhoc5EOAQCviCIkWYdLI-y7r5pmHaOXQsfF0XU-pKHITz1UVp2hZKlpzxNIajcetrbw8xCQi0CM1PkRhXDjfe6UZQkFG4v-6EU_wTIIwDPwFwtzMsgO6FEwqGcf5bfJxvOgS87BgWNfoNCXAGX96tbQym6GWut2uUFUhzwaVRl6uazhUcTmiSU75BDdZv-bV148M4hffNPpTSTW0sWtGTc8lxzU6R30o7AlJXxiTQZTglP56kE.1nO1wr32YVfEsjKfFXWQaWApibqlUD2FPywyrnmiHTw&dib_tag=se&keywords=knitwear%2Bwomen&qid=1785333957&sprefix=knitwera%2Caps%2C367&sr=8-10&th=1&psc=1&linkCode=ll2&tag=tna01-20&linkId=05f4dfe64b6594431c514ac365fa7fd0&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+      "color": "Navy Blue",
+      "slug": "womens-short-sleeve-knit-polo-top",
+      "fit": "Regular Fit",
+      "care": "Hand Wash Only (Iron after opening the vacuum package)",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large"
+      ],
+      "categoryLabel": "Knitwear",
+      "title": "Short Sleeve Knit Polo Top",
+      "images": [
+        {
+          "src": "/assets/uploads/kw1.jpg",
+          "alt": "front view"
+        },
+        {
+          "src": "/assets/uploads/kw2.jpg",
+          "alt": "back view"
+        }
+      ],
+      "tag": "Woman Knitwear",
+      "description": "This Short Sleeve Knit Polo Top is made from soft, breathable, high-stretch knit fabric for all-day comfort and a flattering fit. Featuring a classic striped design, polo neckline, and regular fit, it's perfect for casual or smart-casual wear and pairs effortlessly with jeans, skirts, or trousers. Easy to care for and designed to retain its shape after washing.",
+      "category": "woman-knitwear",
+      "group": "Woman"
     }
   ]
 }
