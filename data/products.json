@@ -16,21 +16,25 @@
         "X-Large",
         "XX-Large"
       ],
-      "status": "",
+      "status": ".",
       "categoryLabel": "Jeans",
       "title": "Dark wide-leg denim jeans",
       "images": [
         {
-          "src": "/assets/uploads/jeans-1.jpg"
+          "src": "/assets/uploads/jeans-1.jpg",
+          "alt": "front view"
         },
         {
-          "src": "/assets/uploads/jeans-2.jpg"
+          "src": "/assets/uploads/jeans-2.jpg",
+          "alt": "side view"
         },
         {
-          "src": "/assets/uploads/jeans-3.jpg"
+          "src": "/assets/uploads/jeans-3.jpg",
+          "alt": "side view"
         },
         {
-          "src": "/assets/uploads/jeans-4.jpg"
+          "src": "/assets/uploads/jeans-4.jpg",
+          "alt": "back view"
         }
       ],
       "tag": "Woman Jeans",
