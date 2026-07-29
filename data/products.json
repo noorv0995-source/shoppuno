@@ -1,40 +1,43 @@
 {
   "products": [
     {
-      "slug": "dark-wide-leg-denim-jeans",
-      "title": "Dark wide-leg denim jeans",
-      "group": "Woman",
-      "category": "woman-jeans",
-      "categoryLabel": "Jeans",
-      "tag": "Woman Jeans",
-      "description": "Relaxed dark denim with curved seam details, utility-inspired pockets, and a wide-leg silhouette for everyday styling.",
+      "affiliateUrl": "https://amzn.to/4fwJvHm",
       "color": "Dark Denim",
+      "slug": "dark-wide-leg-denim-jeans",
+      "shipping": "Shipping speed, import fees, and return rules depend on the final seller.",
+      "promotions": "Any discount or promotion will appear on the final shopping page.",
       "fit": "Wide Leg",
+      "care": "Check the final seller page for exact fabric composition, wash care, sizing, and return details before buying.",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
       "status": "Ready to link",
-      "sizes": ["XS", "S", "M", "L", "XL"],
-      "affiliateUrl": "https://www.amazon.com/s?k=womens+wide+leg+dark+denim+jeans&tag=YOURTAG-20",
+      "categoryLabel": "Jeans",
+      "title": "Dark wide-leg denim jeans",
       "images": [
         {
-          "src": "assets/woman-jeans-1-20260729.jpg",
-          "alt": "Wide leg dark jeans front view"
+          "src": "/assets/uploads/jeans-1.jpg"
         },
         {
-          "src": "assets/woman-jeans-2-20260729.jpg",
-          "alt": "Wide leg dark jeans angled front view"
+          "src": "/assets/uploads/jeans-2.jpg"
         },
         {
-          "src": "assets/woman-jeans-3-20260729.jpg",
-          "alt": "Wide leg dark jeans side view"
+          "src": "/assets/uploads/jeans-3.jpg"
         },
         {
-          "src": "assets/woman-jeans-4-20260729.jpg",
-          "alt": "Wide leg dark jeans back view"
+          "src": "/assets/uploads/jeans-4.jpg"
         }
       ],
-      "editorNote": "A bold wide-leg shape that works with cropped knits, fitted tees, fitted shirts, and clean sneakers or boots.",
-      "care": "Check the final seller page for exact fabric composition, wash care, sizing, and return details before buying.",
-      "promotions": "Any discount or promotion will appear on the final shopping page.",
-      "shipping": "Shipping speed, import fees, and return rules depend on the final seller."
+      "tag": "Woman Jeans",
+      "description": "These women's baggy jeans are made from soft, stretchy, wear-resistant cotton fabric that is lightweight, moisture-wicking, and comfortable for all-day wear. Designed with a high-waisted, wide-leg Y2K-inspired fit, they pair effortlessly with T-shirts, sweaters, cardigans, and jackets, making them suitable for every season. Perfect for school, work, parties, vacations, dates, or everyday wear, these versatile jeans combine style and comfort. Please refer to the size chart before ordering, and wash with cold water by hand or machine for best results.",
+      "category": "woman-jeans",
+      "group": "Woman",
+      "editorNote": "A bold wide-leg shape that works with cropped knits, fitted tees, fitted shirts, and clean sneakers or boots."
     }
   ]
 }
