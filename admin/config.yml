@@ -2,6 +2,8 @@ backend:
   name: github
   repo: noorv0995-source/shoppuno
   branch: main
+  base_url: https://shoppuno-cms-auth.noorv0995.workers.dev
+  auth_endpoint: /auth
 
 local_backend: true
 
