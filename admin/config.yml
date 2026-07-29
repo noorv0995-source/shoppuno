@@ -51,7 +51,22 @@ collections:
                   - "woman-shoes"
                   - "woman-bags"
                   - "woman-accessories"
-              - { label: "Category Label", name: "categoryLabel", widget: "string" }
+              - label: "Category Label"
+                name: "categoryLabel"
+                widget: "select"
+                options:
+                  - "Jeans"
+                  - "Jackets"
+                  - "Coats"
+                  - "T-shirts"
+                  - "Cardigans"
+                  - "Knitwear"
+                  - "Activewear"
+                  - "Shoes"
+                  - "Accessories"
+                  - "Dresses"
+                  - "Shirts"
+                  - "Bags"
               - { label: "Tag", name: "tag", widget: "string", required: false }
               - { label: "Description", name: "description", widget: "text" }
               - { label: "Color", name: "color", widget: "string", required: false }
