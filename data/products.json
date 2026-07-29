@@ -71,6 +71,35 @@
       "description": "This Short Sleeve Knit Polo Top is made from soft, breathable, high-stretch knit fabric for all-day comfort and a flattering fit. Featuring a classic striped design, polo neckline, and regular fit, it's perfect for casual or smart-casual wear and pairs effortlessly with jeans, skirts, or trousers. Easy to care for and designed to retain its shape after washing.",
       "category": "woman-knitwear",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://www.amazon.com/Vamtac-Lightweight-Jackets-Contrast-Vintage/dp/B0FRMZPGB3?crid=2PGQKE87CRIDT&dib=eyJ2IjoiMSJ9.ZxqrAjigW7A7G58JWm51-vmj8PaxxgjMHn51qDvIcuyHqM-Wbh6TjF5dUlY0Dzqc4soCFchuN8YA9Wg-1FgWtKkg2qzWJAbkoXtpxrdbbGYF-f4fNtF7ZcJgVd1rSUGqmb_GPmsMcMXlOIjIfQdJ0KH5m3ZfnINqYBR4Yp8IvjqoUMun5B4mvt2Ow1gcB2CTIeYdMO1uZlpHzk7zerp4QflXE-49ccxG-yby39UEmWVbXDAPDfc7pfZ8sYTKY2amvBbUvPcElGB13db6Iy1v8o_TY86LlMl1bz4tU6-iirg.7mGJWeJVjH70Gy8mKwBJICKWKCDUu7szy-_p74IBFE0&dib_tag=se&keywords=men%2Bjackets&qid=1785336044&sprefix=men%2Bjacket%2Caps%2C403&sr=8-12-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&psc=1&linkCode=ll2&tag=tna01-20&linkId=319d7aafc73ba51fd8e79900a640c7bc&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+      "color": "Khaki",
+      "slug": "vintage-bomber-jacket-men",
+      "fit": "Loose",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large"
+      ],
+      "categoryLabel": "Jackets",
+      "title": "Men's Vintage Bomber Jacket",
+      "images": [
+        {
+          "src": "/assets/uploads/1.jpg",
+          "alt": "front view"
+        },
+        {
+          "src": "/assets/uploads/2.jpg",
+          "alt": "front view"
+        }
+      ],
+      "tag": "Men Jackets",
+      "description": "This Men's Vintage Bomber Jacket features a stylish contrast corduroy collar, full zip closure, ribbed cuffs, and a lightweight design for comfortable layering. Perfect for spring, fall, and cool days, it pairs effortlessly with jeans, joggers, or cargo pants for casual outings, travel, or everyday streetwear. Easy to care for and built for versatile daily wear.",
+      "category": "men-jackets",
+      "group": "Men"
     }
   ]
 }
