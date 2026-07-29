@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "slug": "dark-wide-leg-denim-jeans",
+      "title": "Dark wide-leg denim jeans",
+      "group": "Woman",
+      "category": "woman-jeans",
+      "categoryLabel": "Jeans",
+      "tag": "Woman Jeans",
+      "description": "Relaxed dark denim with curved seam details, utility-inspired pockets, and a wide-leg silhouette for everyday styling.",
+      "color": "Dark Denim",
+      "fit": "Wide Leg",
+      "status": "Ready to link",
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "affiliateUrl": "https://www.amazon.com/s?k=womens+wide+leg+dark+denim+jeans&tag=YOURTAG-20",
+      "images": [
+        {
+          "src": "assets/woman-jeans-1-20260729.jpg",
+          "alt": "Wide leg dark jeans front view"
+        },
+        {
+          "src": "assets/woman-jeans-2-20260729.jpg",
+          "alt": "Wide leg dark jeans angled front view"
+        },
+        {
+          "src": "assets/woman-jeans-3-20260729.jpg",
+          "alt": "Wide leg dark jeans side view"
+        },
+        {
+          "src": "assets/woman-jeans-4-20260729.jpg",
+          "alt": "Wide leg dark jeans back view"
+        }
+      ],
+      "editorNote": "A bold wide-leg shape that works with cropped knits, fitted tees, fitted shirts, and clean sneakers or boots.",
+      "care": "Check the final seller page for exact fabric composition, wash care, sizing, and return details before buying.",
+      "promotions": "Any discount or promotion will appear on the final shopping page.",
+      "shipping": "Shipping speed, import fees, and return rules depend on the final seller."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+backend:
+  name: github
+  repo: noorv0995-source/shoppuno
+  branch: main
+
+local_backend: true
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "catalog"
+    label: "Catalog"
+    files:
+      - name: "products"
+        label: "Products"
+        file: "data/products.json"
+        format: "json"
+        fields:
+          - label: "Products"
+            name: "products"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Slug", name: "slug", widget: "string", hint: "Use lowercase words with hyphens, for example dark-wide-leg-denim-jeans." }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Group", name: "group", widget: "select", options: ["Men", "Woman"] }
+              - label: "Category"
+                name: "category"
+                widget: "select"
+                options:
+                  - "men-jeans"
+                  - "men-jackets"
+                  - "men-coats"
+                  - "men-t-shirts"
+                  - "men-cardigans"
+                  - "men-knitwear"
+                  - "men-activewear"
+                  - "men-shoes"
+                  - "men-accessories"
+                  - "woman-jeans"
+                  - "woman-dresses"
+                  - "woman-t-shirts"
+                  - "woman-shirts"
+                  - "woman-cardigans"
+                  - "woman-knitwear"
+                  - "woman-coats"
+                  - "woman-jackets"
+                  - "woman-shoes"
+                  - "woman-bags"
+                  - "woman-accessories"
+              - { label: "Category Label", name: "categoryLabel", widget: "string" }
+              - { label: "Tag", name: "tag", widget: "string", required: false }
+              - { label: "Description", name: "description", widget: "text" }
+              - { label: "Color", name: "color", widget: "string", required: false }
+              - { label: "Fit", name: "fit", widget: "string", required: false }
+              - { label: "Status", name: "status", widget: "string", required: false }
+              - label: "Sizes"
+                name: "sizes"
+                widget: "list"
+                field: { label: "Size", name: "size", widget: "string" }
+              - { label: "Affiliate / Shop Link", name: "affiliateUrl", widget: "string" }
+              - label: "Images"
+                name: "images"
+                widget: "list"
+                summary: "{{fields.alt}}"
+                fields:
+                  - { label: "Image", name: "src", widget: "image" }
+                  - { label: "Alt Text", name: "alt", widget: "string" }
+              - { label: "Editor's Note", name: "editorNote", widget: "text", required: false }
+              - { label: "Care Details", name: "care", widget: "text", required: false }
+              - { label: "Promotions", name: "promotions", widget: "text", required: false }
+              - { label: "Shipping & Returns", name: "shipping", widget: "text", required: false }
