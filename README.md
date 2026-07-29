@@ -2,6 +2,8 @@
 
 This is a static affiliate website for `shoppuno.com`.
 
+Connected to Cloudflare Git builds.
+
 ## Upload to Cloudflare Pages
 
 1. Open Cloudflare.
