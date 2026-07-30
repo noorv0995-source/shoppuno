@@ -206,6 +206,45 @@
       "description": "Crafted from a soft, stretchy polyester-elastane blend with a sheer mesh overlay and comfortable lining, this elegant maxi dress combines style and comfort. Featuring a high neckline, polka dot mesh, ruffle details, bell sleeves, and a flattering mermaid hem, it creates a slimming silhouette perfect for semi-formal occasions. Ideal for weddings, cocktail parties, date nights, holidays, church, and special events, it pairs beautifully with heels, a clutch, and delicate jewelry. For easy care, machine wash, hand wash, or dry clean; avoid bleach and iron on low when needed.",
       "category": "woman-dresses",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4blRupL",
+      "color": "Black",
+      "slug": "womens-kitten-heel-sandals",
+      "fit": "Flip Flop",
+      "sizes": [
+        "5.5",
+        "6",
+        "6.5",
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "11"
+      ],
+      "categoryLabel": "Shoes",
+      "title": "Women's Kitten Heel Sandals",
+      "images": [
+        {
+          "src": "/assets/uploads/ws1.jpg",
+          "alt": "front view"
+        },
+        {
+          "src": "/assets/uploads/ws2.jpg",
+          "alt": "front appearance view"
+        },
+        {
+          "src": "/assets/uploads/ws3.jpg",
+          "alt": "both view"
+        }
+      ],
+      "tag": "Woman Shoes",
+      "description": "These slip-on kitten heel sandals feature a 5 cm (1.97 inch) heel and a stylish flip-flop design that enhances your silhouette while creating an elegant, leg-lengthening effect. Designed with a comfortable rounded toe, soft 4 mm latex insole, and lightweight durable sole, they provide lasting comfort for all-day wear. Perfect for weddings, parties, shopping, casual outings, and everyday occasions, these versatile heels combine style, convenience, and comfort.",
+      "category": "woman-shoes",
+      "group": "Woman"
     }
   ]
 }
