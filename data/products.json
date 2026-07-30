@@ -245,6 +245,44 @@
       "description": "These slip-on kitten heel sandals feature a 5 cm (1.97 inch) heel and a stylish flip-flop design that enhances your silhouette while creating an elegant, leg-lengthening effect. Designed with a comfortable rounded toe, soft 4 mm latex insole, and lightweight durable sole, they provide lasting comfort for all-day wear. Perfect for weddings, parties, shopping, casual outings, and everyday occasions, these versatile heels combine style, convenience, and comfort.",
       "category": "woman-shoes",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4haP0OJ",
+      "color": "Chocolate Mesh",
+      "slug": "womens-strappy-stiletto-heels",
+      "fit": "Lace Up",
+      "sizes": [
+        "6",
+        "6.5",
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "11"
+      ],
+      "categoryLabel": "Shoes",
+      "title": "Women's Strappy Stiletto Heels",
+      "images": [
+        {
+          "src": "/assets/uploads/ws4.jpg",
+          "alt": "front view"
+        },
+        {
+          "src": "/assets/uploads/ws5.jpg",
+          "alt": "side view"
+        },
+        {
+          "src": "/assets/uploads/ws6-1-.jpg",
+          "alt": "model view"
+        }
+      ],
+      "tag": "Woman Shoes",
+      "description": "These strappy stiletto heels feature a stylish mesh upper, square toe, and a 9.5 cm (3.74 inch) heel that adds elegance while maintaining stability. The adjustable ankle strap provides a secure, comfortable fit for extended wear, making them ideal for both casual and dressy occasions. Their versatile design pairs effortlessly with dresses, skirts, jeans, and trousers, making them a chic addition to any wardrobe. Please refer to the size chart before ordering, and contact customer support if you need any assistance.",
+      "category": "woman-shoes",
+      "group": "Woman"
     }
   ]
 }
