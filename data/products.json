@@ -135,6 +135,41 @@
       "description": "Made from soft, breathable cotton with a slight stretch, this oversized vintage-washed country music T-shirt offers lasting comfort for everyday wear. Featuring a crewneck, retro \"98\" graphic, bold cow bone print, and western-inspired design, it's perfect for country music fans and cowgirl fashion lovers. Ideal for concerts, music festivals, rodeos, casual outings, travel, and outdoor activities, this versatile tee pairs easily with any casual outfit. For best care, hand wash only, avoid bleach and dry cleaning. Available in women's sizing; men should order 1–2 sizes larger for the best fit.",
       "category": "woman-t-shirts",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://www.amazon.com/dp/B0DWJVGY4J?pd_rd_i=B0DWJVGY4J&pd_rd_w=7vhwQ&content-id=amzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6&pf_rd_p=3bc66c0a-cc61-4816-aa2d-e53327eaddb6&pf_rd_r=WNBQ7Q7MK88TJKAHW2GN&pd_rd_wg=Nw7ik&pd_rd_r=18e10689-ae46-433f-be87-a46b9b6bb9b2&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&psc=1&linkCode=ll2&tag=tna01-20&linkId=aee85f5e0fecda75cc188c9e9ee2204a&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+      "color": "Brown",
+      "slug": "germany-26-away-jersey",
+      "fit": "Baggy",
+      "care": "Machine Wash",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large",
+        "3X-Large"
+      ],
+      "categoryLabel": "Jeans",
+      "title": "Y2K Baggy Wide Leg Jeans",
+      "images": [
+        {
+          "src": "/assets/uploads/j1.jpg",
+          "alt": "front view"
+        },
+        {
+          "src": "/assets/uploads/j2.jpg",
+          "alt": "back view"
+        },
+        {
+          "src": "/assets/uploads/j3.jpg",
+          "alt": "side view"
+        }
+      ],
+      "tag": "Men Jeans",
+      "description": "Made from a soft, breathable cotton-polyester blend, these Y2K baggy jeans offer a comfortable loose fit with durable construction for all-day wear. Featuring a vintage wide-leg design with patchwork detailing, they deliver a stylish streetwear look that pairs effortlessly with T-shirts, sweatshirts, or tank tops in any season. Perfect for casual wear, skateboarding, sports, travel, shopping, parties, and outdoor activities, these versatile jeans also make a great gift. Please refer to the size chart before ordering, and machine or hand wash in cold water without bleach.\n",
+      "category": "men-jeans",
+      "group": "Men"
     }
   ]
 }
