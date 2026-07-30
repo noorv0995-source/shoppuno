@@ -304,6 +304,44 @@
       "description": "The Lacoste Metropole bracelet showcases an elegant H-link design with signature petit piqué center links and an etched crocodile clasp, adding a refined touch to any outfit. Featuring a secure jewelry clasp and an adjustable fit from 190 mm (7.5\") to 160 mm (6.3\"), it offers both style and comfort for everyday wear, work, travel, shopping, and special occasions. To preserve its finish and shine, remove the bracelet before washing, swimming, exercising, or applying personal care products, and avoid contact with soap, perfume, lotion, makeup, and cleaning products.",
       "category": "men-accessories",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4vVSube",
+      "color": "Collegiate Navy",
+      "slug": "germany-26-away-jersey",
+      "fit": "Regular Fit",
+      "care": "Machine Wash",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "T-shirts",
+      "title": "Germany 26 Away Jersey",
+      "images": [
+        {
+          "src": "/assets/uploads/a1.jpg",
+          "alt": "front view"
+        },
+        {
+          "src": "/assets/uploads/a4.jpg",
+          "alt": "back view"
+        },
+        {
+          "src": "/assets/uploads/a2.jpg",
+          "alt": "front side view"
+        },
+        {
+          "src": "/assets/uploads/a3.jpg",
+          "alt": "side back view"
+        }
+      ],
+      "tag": "Men T-shirts",
+      "description": "adidas Mens Germany 26 Away Replica Jersey",
+      "category": "men-t-shirts",
+      "group": "Men"
     }
   ]
 }
