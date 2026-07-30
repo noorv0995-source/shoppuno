@@ -283,6 +283,27 @@
       "description": "These strappy stiletto heels feature a stylish mesh upper, square toe, and a 9.5 cm (3.74 inch) heel that adds elegance while maintaining stability. The adjustable ankle strap provides a secure, comfortable fit for extended wear, making them ideal for both casual and dressy occasions. Their versatile design pairs effortlessly with dresses, skirts, jeans, and trousers, making them a chic addition to any wardrobe. Please refer to the size chart before ordering, and contact customer support if you need any assistance.",
       "category": "woman-shoes",
       "group": "Woman"
+    },
+    {
+      "color": "gold",
+      "slug": "lacoste-metropole-bracelet",
+      "sizes": [],
+      "categoryLabel": "Accessories",
+      "title": "Lacoste Metropole Bracelet",
+      "images": [
+        {
+          "src": "/assets/uploads/ma2.jpg",
+          "alt": "front view"
+        },
+        {
+          "src": "/assets/uploads/ma1.jpg",
+          "alt": "model view"
+        }
+      ],
+      "tag": "Men Accessories",
+      "description": "The Lacoste Metropole bracelet showcases an elegant H-link design with signature petit piqué center links and an etched crocodile clasp, adding a refined touch to any outfit. Featuring a secure jewelry clasp and an adjustable fit from 190 mm (7.5\") to 160 mm (6.3\"), it offers both style and comfort for everyday wear, work, travel, shopping, and special occasions. To preserve its finish and shine, remove the bracelet before washing, swimming, exercising, or applying personal care products, and avoid contact with soap, perfume, lotion, makeup, and cleaning products.",
+      "category": "men-accessories",
+      "group": "Men"
     }
   ]
 }
