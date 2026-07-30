@@ -100,6 +100,41 @@
       "description": "This Men's Vintage Bomber Jacket features a stylish contrast corduroy collar, full zip closure, ribbed cuffs, and a lightweight design for comfortable layering. Perfect for spring, fall, and cool days, it pairs effortlessly with jeans, joggers, or cargo pants for casual outings, travel, or everyday streetwear. Easy to care for and built for versatile daily wear.",
       "category": "men-jackets",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://www.amazon.com/Western-Country-Vintage-Graphic-Oversized/dp/B0GHYG7DLJ?_encoding=UTF8&pd_rd_w=Fxc2D&content-id=amzn1.sym.a6dce754-9901-41a6-a629-a32800521c61%3Aamzn1.symc.5a16118f-86f0-44cd-8e3e-6c5f82df43d0&pf_rd_p=a6dce754-9901-41a6-a629-a32800521c61&pf_rd_r=P1MYWHTH79NTAMBESRD0&pd_rd_wg=ubuR9&pd_rd_r=b97309c3-df1e-41ba-8d12-5a08b4e658ae&th=1&psc=1&linkCode=ll2&tag=tna01-20&linkId=5366257f0fdde618fcc59e7f2a70ff9c&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+      "color": "Black",
+      "slug": "western-vintage-cow-skull-tee",
+      "fit": "Loose Fit",
+      "care": "Hand Wash Only",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large",
+        "3X-Large"
+      ],
+      "categoryLabel": "T-shirts",
+      "title": "Western Vintage Cow Skull Tee",
+      "images": [
+        {
+          "src": "/assets/uploads/copy-of-copy-of-copy-of-beige-white-minimal-simple-modern-classic-fitness-and-spa-sand-logo-18-.jpg",
+          "alt": "front view"
+        },
+        {
+          "src": "/assets/uploads/copy-of-copy-of-copy-of-beige-white-minimal-simple-modern-classic-fitness-and-spa-sand-logo-19-.jpg",
+          "alt": "back view"
+        },
+        {
+          "src": "/assets/uploads/copy-of-copy-of-copy-of-beige-white-minimal-simple-modern-classic-fitness-and-spa-sand-logo-20-.jpg",
+          "alt": "front-back view"
+        }
+      ],
+      "tag": "Woman T-shirts",
+      "description": "Made from soft, breathable cotton with a slight stretch, this oversized vintage-washed country music T-shirt offers lasting comfort for everyday wear. Featuring a crewneck, retro \"98\" graphic, bold cow bone print, and western-inspired design, it's perfect for country music fans and cowgirl fashion lovers. Ideal for concerts, music festivals, rodeos, casual outings, travel, and outdoor activities, this versatile tee pairs easily with any casual outfit. For best care, hand wash only, avoid bleach and dry cleaning. Available in women's sizing; men should order 1–2 sizes larger for the best fit.",
+      "category": "woman-t-shirts",
+      "group": "Woman"
     }
   ]
 }
