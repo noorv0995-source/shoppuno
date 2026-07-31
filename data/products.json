@@ -704,6 +704,36 @@
       "description": "The Aelfric Eden oversized crewneck sweatshirt combines comfort and vintage-inspired streetwear style with a bold letter print that adds a unique touch. Made from easy-care, quick-drying, and stretchy fabric, it offers all-day comfort for casual outings or relaxing at home. Its loose fit pairs effortlessly with jeans or joggers, making it a versatile wardrobe staple for hangouts, weekends, and everyday wear.",
       "category": "men-shirts",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4wbB5Mc",
+      "color": "Grey",
+      "slug": "aelfric-eden-cropped-zip-up-hoodie",
+      "fit": "Loose",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small Short",
+        "Small Short",
+        "Medium Short",
+        "Large Short",
+        "X-Large Short"
+      ],
+      "categoryLabel": "Hoodie",
+      "title": "Aelfric Eden Cropped Zip-Up Hoodie",
+      "images": [
+        {
+          "src": "/assets/uploads/whd3.jpg",
+          "alt": "front"
+        },
+        {
+          "src": "/assets/uploads/whd3-1-.jpg",
+          "alt": "back"
+        }
+      ],
+      "tag": "Woman Hoodie",
+      "description": "This cropped zip-up hoodie is made from a soft, breathable, and durable cotton-polyester blend, offering comfortable everyday wear with a trendy Y2K streetwear look. Featuring a modern cropped regular fit and bold contrast stripes with red accents, it creates a stylish statement silhouette. The full-zip design allows versatile layering, while the hoodie pairs effortlessly with baggy jeans, cargo pants, sweatpants, or shorts. Perfect for daily wear, travel, skating, gym sessions, and outdoor activities.",
+      "category": "woman-hoodie",
+      "group": "Woman"
     }
   ]
 }
