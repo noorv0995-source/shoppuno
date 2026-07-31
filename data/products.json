@@ -371,6 +371,37 @@
       "description": "Crafted from premium vintage-washed cotton denim, these Aelfric Eden baggy barrel jeans offer a soft, breathable, and durable feel for year-round comfort. Featuring an ultra-loose wide-leg barrel silhouette with classic pockets, they deliver a bold Y2K streetwear look that pairs effortlessly with T-shirts, sweatshirts, jackets, sneakers, or boots. Designed for both men and women, they're perfect for casual wear, shopping, travel, dancing, hip-hop, and everyday outings. For best results, machine or hand wash in cold water, avoid bleach, hang to dry, and refer to the size chart before ordering.",
       "category": "men-jeans",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4pQanHi",
+      "color": "C-black",
+      "slug": "mens-slim-fit-denim-jacket",
+      "fit": "Classic Fit, Regular Fit",
+      "care": "Hand Wash or Machine Wash",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large",
+        "3X-Large"
+      ],
+      "categoryLabel": "Shirts",
+      "title": "Men's Slim Fit Denim Jacket",
+      "images": [
+        {
+          "src": "/assets/uploads/ms2.jpg",
+          "alt": "front view"
+        },
+        {
+          "src": "/assets/uploads/ms1.jpg",
+          "alt": "back view"
+        }
+      ],
+      "tag": "Men Shirts",
+      "description": "Crafted from a comfortable cotton, polyester, and spandex blend, this men's slim-fit denim jacket offers a soft, durable feel with a stylish distressed and ripped design. Featuring long sleeves, metal cuff buttons, a single-breasted closure, two flap pockets, and a classic slash pocket, it combines practicality with timeless style. Perfect for layering in spring, autumn, and winter, it pairs effortlessly with various outfits and is suitable for hiking, travel, cycling, driving, casual outings, parties, dates, and everyday wear. Machine wash cold with similar colors, dry on low, and do not bleach.",
+      "category": "men-shirts",
+      "group": "Men"
     }
   ]
 }
