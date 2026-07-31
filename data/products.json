@@ -553,6 +553,36 @@
       "description": "Made from high-quality denim, these relaxed-fit Y2K baggy jeans offer a soft, durable, and comfortable feel with a loose silhouette for unrestricted movement. Featuring a workwear-inspired design with roomy hips and thighs and two oversized back pockets, they deliver a bold hip-hop and streetwear aesthetic. Perfect for street dancing, skateboarding, cycling, commuting, and everyday casual wear, they pair effortlessly with T-shirts, shirts, hoodies, and jackets. Machine or hand wash in cold water, and wash separately from light-colored clothing to prevent staining.",
       "category": "men-jeans",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/45xDWnv",
+      "color": "Yellow",
+      "slug": "womens-y2k-cropped-cardigan",
+      "fit": "Loose",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large"
+      ],
+      "categoryLabel": "Cardigans",
+      "title": "Women's Y2K Cropped Cardigan",
+      "images": [
+        {
+          "src": "/assets/uploads/mcg1.jpg",
+          "alt": "side"
+        },
+        {
+          "src": "/assets/uploads/mcg1-1-.jpg",
+          "alt": "front"
+        }
+      ],
+      "tag": "Woman Cardigans",
+      "description": "This women's chunky cardigan is made from soft, cozy knitted fabric, offering warmth and comfort through spring, fall, and winter. Featuring a button-front design, bright solid color, ribbed cuffs and hem, long sleeves, and a cropped length above the hip, it adds a stylish Y2K-inspired touch to any outfit. Easy to layer over T-shirts, turtlenecks, or shirts and pair with jeans or skirts, it's perfect for casual gatherings and special occasions. Machine or hand wash cold on a gentle cycle, preferably with a laundry bag, and do not bleach.",
+      "category": "woman-cardigans",
+      "group": "Woman"
     }
   ]
 }
