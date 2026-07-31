@@ -734,6 +734,39 @@
       "description": "This cropped zip-up hoodie is made from a soft, breathable, and durable cotton-polyester blend, offering comfortable everyday wear with a trendy Y2K streetwear look. Featuring a modern cropped regular fit and bold contrast stripes with red accents, it creates a stylish statement silhouette. The full-zip design allows versatile layering, while the hoodie pairs effortlessly with baggy jeans, cargo pants, sweatpants, or shorts. Perfect for daily wear, travel, skating, gym sessions, and outdoor activities.",
       "category": "woman-hoodie",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4w4bTqS",
+      "color": "Red",
+      "slug": "womens-pointed-toe-kitten-heels",
+      "sizes": [
+        "6",
+        "6.5",
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "11"
+      ],
+      "categoryLabel": "Shoes",
+      "title": "Women's Pointed Toe Kitten Heels",
+      "images": [
+        {
+          "src": "/assets/uploads/ws7.jpg",
+          "alt": "side"
+        },
+        {
+          "src": "/assets/uploads/ws8.jpg",
+          "alt": "front"
+        }
+      ],
+      "tag": "Woman Shoes",
+      "description": "These women's slingback kitten heels feature a 2.16-inch (5.5 cm) stiletto heel that elongates the legs while maintaining an elegant, comfortable feel. Designed with a trendy buckle closure, pointed toe, adjustable back strap, and cushioned insole, they offer a secure fit and all-day comfort. Perfect for the office, church, parties, weddings, dates, proms, and anniversary celebrations, these versatile pumps add a stylish touch to both formal and everyday outfits.",
+      "category": "men-shoes",
+      "group": "Woman"
     }
   ]
 }
