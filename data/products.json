@@ -433,6 +433,40 @@
       "description": "This boho chic maxi skirt is made from soft, lightweight, and stretchy fabric for breathable comfort and effortless movement. Featuring a flowy A-line silhouette with cascading tiered ruffles, a ruched design, ruffle hem, and bow-front detail, it adds a feminine and free-spirited touch to any outfit. Perfect for casual outings, parties, beach days, dates, weddings, festivals, holidays, and everyday wear, it pairs beautifully with heels, sandals, sneakers, boots, tops, sweaters, cardigans, and jackets. Please refer to the provided size chart for the best fit.",
       "category": "woman-skirts",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4fxD2xo",
+      "color": "Green",
+      "slug": "womens-bubble-maxi-skirt",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Skirts",
+      "title": "Women's Bubble Maxi Skirt",
+      "images": [
+        {
+          "src": "/assets/uploads/wsk3.jpg",
+          "alt": "front view"
+        },
+        {
+          "src": "/assets/uploads/wsk4.jpg",
+          "alt": "side view"
+        },
+        {
+          "src": "/assets/uploads/wsk5.jpg",
+          "alt": "back view"
+        }
+      ],
+      "tag": "Woman Skirts",
+      "description": "Made from a lightweight, breathable polyester-nylon blend with a smooth lining, this Y2K bubble maxi skirt offers comfortable year-round wear. Featuring a romantic 3D bubble hem, elastic waistband, loose A-line silhouette, pleated details, ankle-length cut, and deep side pockets, it creates a flattering and stylish look for various body types. Easy to pair with T-shirts, tank tops, sweaters, hoodies, shirts, jackets, or coats, this versatile skirt works for both casual and dressy occasions. Machine washable and easy to care for, with low-temperature ironing if needed; please refer to the size chart before ordering.",
+      "category": "woman-skirts",
+      "group": "Woman"
     }
   ]
 }
