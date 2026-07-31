@@ -620,6 +620,27 @@
       "description": "Crafted from a soft, breathable cotton-polyester blend, this unisex cardigan offers all-day comfort with a classic long-sleeve design and ribbed detailing at the neck, cuffs, and hem. Its oversized, baggy fit delivers a trendy vintage streetwear look that pairs effortlessly with jeans, shorts, trousers, sweatpants, coats, or jackets. Versatile for everyday wear, sports, vacations, parties, work, dates, and indoor or outdoor activities, it combines style and comfort for any occasion. Machine or hand washable; please refer to the size chart before ordering.",
       "category": "men-cardigans",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4pQSbNL",
+      "color": "Black",
+      "slug": "womens-mini-hobo-shoulder-bag",
+      "categoryLabel": "Bags",
+      "title": "Women's Mini Hobo Shoulder Bag",
+      "images": [
+        {
+          "src": "/assets/uploads/wb1.jpg",
+          "alt": "front"
+        },
+        {
+          "src": "/assets/uploads/wb2.jpg",
+          "alt": "model"
+        }
+      ],
+      "tag": "Woman Bags",
+      "description": "Made from durable, easy-to-clean PU leather with a soft polyester lining, this vintage-inspired shoulder bag features smooth zippers and high-quality hardware for a stylish, long-lasting finish. Measuring 11\" L x 4.9\" W x 2.75\" H, it offers ample space with a main compartment, inner zipper pocket, and three slots for essentials like your phone, wallet, makeup, and tissues. Featuring both a removable short strap and a long gold chain, it can be styled as a shoulder bag, underarm purse, clutch, hobo, tote, or crossbody. Perfect for daily wear, work, dates, parties, shopping, and travel, it also makes a thoughtful gift for birthdays, holidays, Mother's Day, Valentine's Day, or graduation.",
+      "category": "woman-bags",
+      "group": "Woman"
     }
   ]
 }
