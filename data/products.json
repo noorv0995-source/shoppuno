@@ -641,6 +641,38 @@
       "description": "Made from durable, easy-to-clean PU leather with a soft polyester lining, this vintage-inspired shoulder bag features smooth zippers and high-quality hardware for a stylish, long-lasting finish. Measuring 11\" L x 4.9\" W x 2.75\" H, it offers ample space with a main compartment, inner zipper pocket, and three slots for essentials like your phone, wallet, makeup, and tissues. Featuring both a removable short strap and a long gold chain, it can be styled as a shoulder bag, underarm purse, clutch, hobo, tote, or crossbody. Perfect for daily wear, work, dates, parties, shopping, and travel, it also makes a thoughtful gift for birthdays, holidays, Mother's Day, Valentine's Day, or graduation.",
       "category": "woman-bags",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4xjIutP",
+      "color": "Brown",
+      "slug": "mens-faux-leather-moto-bomber-jacket",
+      "fit": "Loose",
+      "care": "Machine Wash",
+      "sizes": [
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Jackets",
+      "title": "Men's Faux Leather Moto Bomber Jacket",
+      "images": [
+        {
+          "src": "/assets/uploads/mj1.jpg",
+          "alt": "fv"
+        },
+        {
+          "src": "/assets/uploads/mj1-1-.jpg",
+          "alt": "bv"
+        },
+        {
+          "src": "/assets/uploads/mj1-2-.jpg",
+          "alt": "mv"
+        }
+      ],
+      "tag": "Men Jackets",
+      "description": "Crafted from durable, eco-friendly faux leather, this jacket features a smooth premium finish and a modern boxy-cropped fit for a bold Y2K streetwear look. Inspired by classic 90s motorcycle jackets, its distressed brown finish adds rugged vintage character and effortlessly complements oversized tees, cargo pants, and denim. Warm and easy to layer, this unisex jacket is perfect for fall and winter, making it ideal for school, weekend outings, road trips, and casual city wear.",
+      "category": "men-jackets",
+      "group": "Men"
     }
   ]
 }
