@@ -583,6 +583,43 @@
       "description": "This women's chunky cardigan is made from soft, cozy knitted fabric, offering warmth and comfort through spring, fall, and winter. Featuring a button-front design, bright solid color, ribbed cuffs and hem, long sleeves, and a cropped length above the hip, it adds a stylish Y2K-inspired touch to any outfit. Easy to layer over T-shirts, turtlenecks, or shirts and pair with jeans or skirts, it's perfect for casual gatherings and special occasions. Machine or hand wash cold on a gentle cycle, preferably with a laundry bag, and do not bleach.",
       "category": "woman-cardigans",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4w5sYka",
+      "color": "Black",
+      "slug": "mens-y2k-rib-knit-cardigan",
+      "fit": "Loose",
+      "care": "Machine Wash",
+      "sizes": [
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Cardigans",
+      "title": "Men's Y2K Rib Knit Cardigan",
+      "images": [
+        {
+          "src": "/assets/uploads/mcg1-2-.jpg",
+          "alt": "front"
+        },
+        {
+          "src": "/assets/uploads/mcg1-3-.jpg",
+          "alt": "back"
+        },
+        {
+          "src": "/assets/uploads/mcg2-1-.jpg",
+          "alt": "back view"
+        },
+        {
+          "src": "/assets/uploads/mcg3.jpg",
+          "alt": "side view"
+        }
+      ],
+      "tag": "Men Cardigans",
+      "description": "Crafted from a soft, breathable cotton-polyester blend, this unisex cardigan offers all-day comfort with a classic long-sleeve design and ribbed detailing at the neck, cuffs, and hem. Its oversized, baggy fit delivers a trendy vintage streetwear look that pairs effortlessly with jeans, shorts, trousers, sweatpants, coats, or jackets. Versatile for everyday wear, sports, vacations, parties, work, dates, and indoor or outdoor activities, it combines style and comfort for any occasion. Machine or hand washable; please refer to the size chart before ordering.",
+      "category": "men-cardigans",
+      "group": "Men"
     }
   ]
 }
