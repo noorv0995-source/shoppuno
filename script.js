@@ -7,6 +7,14 @@ if (header && menuButton) {
     menuButton.setAttribute("aria-expanded", String(isOpen));
     menuButton.textContent = isOpen ? "Close" : "Menu";
   });
+
+  header.querySelectorAll(".nav a").forEach((link) => {
+    link.addEventListener("click", () => {
+      header.classList.remove("menu-open");
+      menuButton.setAttribute("aria-expanded", "false");
+      menuButton.textContent = "Menu";
+    });
+  });
 }
 
 const categoryCards = document.querySelectorAll(".category-card");
