@@ -488,6 +488,36 @@
       "description": "Marc Jacobs Demo Cat Eye Ladies Eyeglasses MARC 649 0R6S 53",
       "category": "woman-accessories",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4fStz2G",
+      "color": "Z-cheetah Khaki",
+      "slug": "womens-fleece-letter-hoodie",
+      "fit": "Loose",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large"
+      ],
+      "categoryLabel": "Hoodie",
+      "title": "Women's Fleece Letter Hoodie",
+      "images": [
+        {
+          "src": "/assets/uploads/whd1.jpg",
+          "alt": "front view"
+        },
+        {
+          "src": "/assets/uploads/whd2.jpg",
+          "alt": "model view"
+        }
+      ],
+      "tag": "Woman Hoodie",
+      "description": "Made from a soft cotton-polyester blend with a cozy fleece lining, this oversized cheetah print hoodie offers all-day comfort and warmth. Featuring a bold Y2K leopard design, long raglan sleeves, ribbed cuffs and hem, and a convenient kangaroo pocket, it delivers a stylish boyfriend-inspired look. Perfect for autumn and winter, it pairs effortlessly with sweatpants, leggings, corduroy pants, boots, clogs, or sneakers and is ideal for casual outings, school, parties, travel, streetwear, skating, running, and gym sessions. Machine washable; using a laundry bag is recommended. Please refer to the size chart before ordering.",
+      "category": "woman-hoodie",
+      "group": "Woman"
     }
   ]
 }
