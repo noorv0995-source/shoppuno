@@ -767,6 +767,37 @@
       "description": "These women's slingback kitten heels feature a 2.16-inch (5.5 cm) stiletto heel that elongates the legs while maintaining an elegant, comfortable feel. Designed with a trendy buckle closure, pointed toe, adjustable back strap, and cushioned insole, they offer a secure fit and all-day comfort. Perfect for the office, church, parties, weddings, dates, proms, and anniversary celebrations, these versatile pumps add a stylish touch to both formal and everyday outfits.",
       "category": "men-shoes",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4xjIutP",
+      "color": "Brown",
+      "slug": "mens-faux-leather-moto-bomber-jacket",
+      "fit": "Loose",
+      "sizes": [
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Jackets",
+      "title": "Men's Faux Leather Moto Bomber Jacket",
+      "images": [
+        {
+          "src": "/assets/uploads/mj1.jpg",
+          "alt": "front"
+        },
+        {
+          "src": "/assets/uploads/mj1-1-.jpg",
+          "alt": "back"
+        },
+        {
+          "src": "/assets/uploads/mj1-2-.jpg",
+          "alt": "model"
+        }
+      ],
+      "tag": "Men Jacket",
+      "description": "Crafted from durable, eco-friendly faux leather, this jacket features a smooth premium finish and a modern boxy-cropped fit for a bold Y2K streetwear look. Inspired by classic 90s motorcycle jackets, its distressed brown finish adds rugged vintage character and effortlessly complements oversized tees, cargo pants, and denim. Warm and easy to layer, this unisex jacket is perfect for fall and winter, making it ideal for school, weekend outings, road trips, and casual city wear.",
+      "category": "men-jackets",
+      "group": "Men"
     }
   ]
 }
