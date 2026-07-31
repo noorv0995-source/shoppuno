@@ -673,6 +673,37 @@
       "description": "Crafted from durable, eco-friendly faux leather, this jacket features a smooth premium finish and a modern boxy-cropped fit for a bold Y2K streetwear look. Inspired by classic 90s motorcycle jackets, its distressed brown finish adds rugged vintage character and effortlessly complements oversized tees, cargo pants, and denim. Warm and easy to layer, this unisex jacket is perfect for fall and winter, making it ideal for school, weekend outings, road trips, and casual city wear.",
       "category": "men-jackets",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4pQ5bD2",
+      "color": "Grey",
+      "slug": "aelfric-eden-oversized-graphic-sweatshirt",
+      "fit": "Loose",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Shirts",
+      "title": "Aelfric Eden Oversized Graphic Sweatshirt",
+      "images": [
+        {
+          "src": "/assets/uploads/ms4-1-.jpg",
+          "alt": "front"
+        },
+        {
+          "src": "/assets/uploads/ms4.jpg",
+          "alt": "back"
+        }
+      ],
+      "tag": "Men Shirts",
+      "description": "The Aelfric Eden oversized crewneck sweatshirt combines comfort and vintage-inspired streetwear style with a bold letter print that adds a unique touch. Made from easy-care, quick-drying, and stretchy fabric, it offers all-day comfort for casual outings or relaxing at home. Its loose fit pairs effortlessly with jeans or joggers, making it a versatile wardrobe staple for hangouts, weekends, and everyday wear.",
+      "category": "men-shirts",
+      "group": "Men"
     }
   ]
 }
