@@ -402,6 +402,37 @@
       "description": "Crafted from a comfortable cotton, polyester, and spandex blend, this men's slim-fit denim jacket offers a soft, durable feel with a stylish distressed and ripped design. Featuring long sleeves, metal cuff buttons, a single-breasted closure, two flap pockets, and a classic slash pocket, it combines practicality with timeless style. Perfect for layering in spring, autumn, and winter, it pairs effortlessly with various outfits and is suitable for hiking, travel, cycling, driving, casual outings, parties, dates, and everyday wear. Machine wash cold with similar colors, dry on low, and do not bleach.",
       "category": "men-shirts",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4fOdDOQ",
+      "color": "White",
+      "slug": "womens-boho-maxi-skirt",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large",
+        "3X-Large"
+      ],
+      "categoryLabel": "Skirts",
+      "title": "Women's Boho Maxi Skirt",
+      "images": [
+        {
+          "src": "/assets/uploads/wsk1.jpg",
+          "alt": "Front view"
+        },
+        {
+          "src": "/assets/uploads/wsk2.jpg",
+          "alt": "back view"
+        }
+      ],
+      "tag": "Woman Skirts",
+      "description": "This boho chic maxi skirt is made from soft, lightweight, and stretchy fabric for breathable comfort and effortless movement. Featuring a flowy A-line silhouette with cascading tiered ruffles, a ruched design, ruffle hem, and bow-front detail, it adds a feminine and free-spirited touch to any outfit. Perfect for casual outings, parties, beach days, dates, weddings, festivals, holidays, and everyday wear, it pairs beautifully with heels, sandals, sneakers, boots, tops, sweaters, cardigans, and jackets. Please refer to the provided size chart for the best fit.",
+      "category": "woman-skirts",
+      "group": "Woman"
     }
   ]
 }
