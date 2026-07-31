@@ -518,6 +518,41 @@
       "description": "Made from a soft cotton-polyester blend with a cozy fleece lining, this oversized cheetah print hoodie offers all-day comfort and warmth. Featuring a bold Y2K leopard design, long raglan sleeves, ribbed cuffs and hem, and a convenient kangaroo pocket, it delivers a stylish boyfriend-inspired look. Perfect for autumn and winter, it pairs effortlessly with sweatpants, leggings, corduroy pants, boots, clogs, or sneakers and is ideal for casual outings, school, parties, travel, streetwear, skating, running, and gym sessions. Machine washable; using a laundry bag is recommended. Please refer to the size chart before ordering.",
       "category": "woman-hoodie",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/3S66nG4",
+      "color": "01-black Grey",
+      "slug": "mens-y2k-baggy-hip-hop-jeans",
+      "fit": "Regular",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Jeans",
+      "title": "Men's Y2K Baggy Hip Hop Jeans",
+      "images": [
+        {
+          "src": "/assets/uploads/mj6.jpg",
+          "alt": "back view"
+        },
+        {
+          "src": "/assets/uploads/mj7.jpg",
+          "alt": "front view"
+        },
+        {
+          "src": "/assets/uploads/mj8.jpg",
+          "alt": "side view"
+        }
+      ],
+      "tag": "Men Jeans",
+      "description": "Made from high-quality denim, these relaxed-fit Y2K baggy jeans offer a soft, durable, and comfortable feel with a loose silhouette for unrestricted movement. Featuring a workwear-inspired design with roomy hips and thighs and two oversized back pockets, they deliver a bold hip-hop and streetwear aesthetic. Perfect for street dancing, skateboarding, cycling, commuting, and everyday casual wear, they pair effortlessly with T-shirts, shirts, hoodies, and jackets. Machine or hand wash in cold water, and wash separately from light-colored clothing to prevent staining.",
+      "category": "men-jeans",
+      "group": "Men"
     }
   ]
 }
