@@ -798,6 +798,32 @@
       "description": "Crafted from durable, eco-friendly faux leather, this jacket features a smooth premium finish and a modern boxy-cropped fit for a bold Y2K streetwear look. Inspired by classic 90s motorcycle jackets, its distressed brown finish adds rugged vintage character and effortlessly complements oversized tees, cargo pants, and denim. Warm and easy to layer, this unisex jacket is perfect for fall and winter, making it ideal for school, weekend outings, road trips, and casual city wear.",
       "category": "men-jackets",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://www.amazon.com/URBAN-ESSENTIAL-Printed-Foldable-Ubk516_black/dp/B01MTDMKEA?_encoding=UTF8&pd_rd_w=RvOTG&content-id=amzn1.sym.f6921fbe-d256-4455-81ec-e84f569c99e9%3Aamzn1.symc.050ea944-f1cf-4610-b462-3b604f2f4082&pf_rd_p=f6921fbe-d256-4455-81ec-e84f569c99e9&pf_rd_r=F0J9TCKGGHVDEB004WNS&pd_rd_wg=Zo3ig&pd_rd_r=59d3a563-a412-43c4-8544-b42f88e069ba&th=1&psc=1&linkCode=ll2&tag=tna01-20&linkId=bff2abaa182dbbcba88b9cfb7f683787&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl",
+      "color": "Black",
+      "slug": "womens-high-waist-maxi-skirt",
+      "care": "machine wash",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large",
+        "3X-Large"
+      ],
+      "categoryLabel": "Skirts",
+      "title": "Women's High Waist Maxi Skirt",
+      "images": [
+        {
+          "src": "/assets/uploads/sk1.jpg",
+          "alt": "front"
+        }
+      ],
+      "tag": "Woman Skirts",
+      "description": "Made in the USA from a soft, stretchy rayon-spandex blend, this maxi skirt offers all-day comfort with a flexible, foldable waistband that can be styled to suit your preference. Designed to flatter a variety of body shapes, it features a flowing silhouette perfect for everyday wear. Available in solid colors, paisley, line, and Aztec prints, this versatile skirt is easy to pair with your favorite tops for casual or dressy occasions. Machine wash cold on a gentle cycle and tumble dry low.",
+      "category": "woman-skirts",
+      "group": "Woman"
     }
   ]
 }
