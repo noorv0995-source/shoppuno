@@ -843,6 +843,26 @@
       "description": "These retro oval sunglasses feature a stylish 90s-inspired narrow design that adds a chic vintage touch to any outfit. Equipped with lenses that block 99.99% of UVA and UVB rays, they provide reliable sun protection while the lightweight construction ensures comfortable all-day wear. Perfect for casual outings, parties, or dressier occasions, they pair effortlessly with everything from T-shirts to suits. The 2-pack includes two pairs of sunglasses, a cleaning cloth, and a storage box, making them a versatile and convenient choice for everyday styling.",
       "category": "woman-accessories",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4grCc5r",
+      "color": "Black",
+      "slug": "prada-pr-27zs-sunglasses",
+      "categoryLabel": "Accessories",
+      "title": "Prada PR 27ZS Sunglasses",
+      "images": [
+        {
+          "src": "/assets/uploads/wg3.jpg",
+          "alt": "v1"
+        },
+        {
+          "src": "/assets/uploads/wg4.jpg",
+          "alt": "v2"
+        }
+      ],
+      "description": "Prada Dark Grey Rectangular Men's Sunglasses PR 27ZS 16K08Z 54",
+      "category": "woman-accessories",
+      "group": "Woman"
     }
   ]
 }
