@@ -81,8 +81,13 @@ collections:
               - label: "Sizes"
                 name: "sizes"
                 widget: "list"
+                required: false
                 field: { label: "Size", name: "size", widget: "string" }
-              - { label: "Affiliate / Shop Link", name: "affiliateUrl", widget: "string" }
+              - label: "Affiliate / Shop Link"
+                name: "affiliateUrl"
+                widget: "string"
+                required: false
+                hint: "Paste the Amazon or product page link here. You can add it later if the product is not ready."
               - label: "Images"
                 name: "images"
                 widget: "list"

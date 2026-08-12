@@ -62,7 +62,7 @@ function setupProductGalleries(root = document) {
       const nextImage = thumb.getAttribute("data-gallery-image");
       const nextAlt = thumb.querySelector("img")?.getAttribute("alt") || "";
 
-      if (nextImage) {
+      if (nextImage && mainImage.tagName === "IMG") {
         mainImage.setAttribute("src", nextImage);
         mainImage.setAttribute("alt", nextAlt);
       }
@@ -95,6 +95,14 @@ function productHref(product) {
   return `product.html?slug=${encodeURIComponent(product.slug)}`;
 }
 
+function productImageMarkup(image, title) {
+  if (!image?.src) {
+    return `<div class="product-image-placeholder" aria-hidden="true">${escapeHtml(title || "Shoppuno")}</div>`;
+  }
+
+  return `<img src="${escapeHtml(image.src)}" alt="${escapeHtml(image.alt || title)}">`;
+}
+
 function renderCatalogProducts(products) {
   const sections = document.querySelectorAll("[data-category-products]");
 
@@ -110,7 +118,7 @@ function renderCatalogProducts(products) {
           const image = product.images?.[0] || {};
           return `
             <a class="catalog-product-card" href="${productHref(product)}">
-              <img src="${escapeHtml(image.src)}" alt="${escapeHtml(image.alt || product.title)}">
+              ${productImageMarkup(image, product.title)}
               <div>
                 <span class="tag">${escapeHtml(product.tag || product.categoryLabel || "Product")}</span>
                 <h2>${escapeHtml(product.title)}</h2>
@@ -147,13 +155,19 @@ function renderProductDetail(products) {
   const images = product.images || [];
   const primary = images[0] || {};
   const sizes = product.sizes || [];
+  const categoryLabel = product.categoryLabel || "Product";
+  const group = product.group || "Shop";
+  const affiliateUrl = product.affiliateUrl || "";
+  const shopButton = affiliateUrl
+    ? `<a class="button primary" href="${escapeHtml(affiliateUrl)}" rel="nofollow sponsored">Shop this style</a>`
+    : `<span class="button primary is-disabled" aria-disabled="true">Shop link coming soon</span>`;
 
   mount.innerHTML = `
     <section class="section product-showcase">
       <nav class="breadcrumbs" aria-label="Breadcrumb">
         <a href="index.html">Home</a>
         <span>/</span>
-        <a href="${escapeHtml(product.category)}.html">${escapeHtml(product.group)} ${escapeHtml(product.categoryLabel)}</a>
+        <a href="${escapeHtml(product.category)}.html">${escapeHtml(group)} ${escapeHtml(categoryLabel)}</a>
         <span>/</span>
         <strong>${escapeHtml(product.title)}</strong>
       </nav>
@@ -166,12 +180,14 @@ function renderProductDetail(products) {
           `).join("")}
         </div>
         <div class="product-main-image">
-          <img src="${escapeHtml(primary.src)}" alt="${escapeHtml(primary.alt || product.title)}" data-gallery-main>
+          ${primary.src
+            ? `<img src="${escapeHtml(primary.src)}" alt="${escapeHtml(primary.alt || product.title)}" data-gallery-main>`
+            : `<div class="product-image-placeholder product-image-placeholder-large" data-gallery-main>${escapeHtml(product.title)}</div>`}
         </div>
         <article class="product-details-panel">
-          <p class="eyebrow">${escapeHtml(product.tag || product.categoryLabel || "Product")}</p>
+          <p class="eyebrow">${escapeHtml(product.tag || categoryLabel)}</p>
           <h1>${escapeHtml(product.title)}</h1>
-          <p>${escapeHtml(product.description)}</p>
+          <p>${escapeHtml(product.description || "Product details are being updated.")}</p>
           <div class="product-meta">
             <div>
               <span>Colour</span>
@@ -187,11 +203,11 @@ function renderProductDetail(products) {
             </div>
           </div>
           <div class="size-row" aria-label="Available sizes">
-            ${sizes.map((size) => `<span>${escapeHtml(size)}</span>`).join("")}
+            ${sizes.length ? sizes.map((size) => `<span>${escapeHtml(size)}</span>`).join("") : "<span>See seller page</span>"}
           </div>
           <div class="product-actions">
-            <a class="button primary" href="${escapeHtml(product.affiliateUrl)}" rel="nofollow sponsored">Shop this style</a>
-            <a class="button secondary" href="${escapeHtml(product.category)}.html">Back to ${escapeHtml(product.group)} ${escapeHtml(product.categoryLabel)}</a>
+            ${shopButton}
+            <a class="button secondary" href="${escapeHtml(product.category)}.html">Back to ${escapeHtml(group)} ${escapeHtml(categoryLabel)}</a>
           </div>
           <div class="detail-list">
             <details open>

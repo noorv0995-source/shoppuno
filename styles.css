@@ -567,6 +567,23 @@ h3 {
   background: #f4f1eb;
 }
 
+.product-image-placeholder {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  padding: 24px;
+  background: #f4f1eb;
+  color: var(--muted);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.product-image-placeholder-large {
+  min-height: 58vh;
+}
+
 .catalog-product-card h2 {
   font-size: 1.15rem;
   line-height: 1.2;
@@ -597,6 +614,11 @@ h3 {
 .product-actions {
   display: grid;
   gap: 10px;
+}
+
+.button.is-disabled {
+  cursor: not-allowed;
+  opacity: 0.62;
 }
 
 .detail-list {
