@@ -108,7 +108,9 @@ function renderCatalogProducts(products) {
 
   sections.forEach((section) => {
     const category = section.getAttribute("data-category-products");
-    const matches = products.filter((product) => product.category === category);
+    const matches = products
+      .filter((product) => product.category === category)
+      .toReversed();
 
     if (!matches.length) return;
 
