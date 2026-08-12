@@ -793,6 +793,35 @@
       "description": "Made in the USA from a soft, stretchy rayon-spandex blend, this maxi skirt offers all-day comfort with a flexible, foldable waistband that can be styled to suit your preference. Designed to flatter a variety of body shapes, it features a flowing silhouette perfect for everyday wear. Available in solid colors, paisley, line, and Aztec prints, this versatile skirt is easy to pair with your favorite tops for casual or dressy occasions. Machine wash cold on a gentle cycle and tumble dry low.",
       "category": "woman-skirts",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/45WNEQA",
+      "color": "white",
+      "slug": "cider-polka-dot-mini-dress",
+      "care": "Machine wash in laundry bag (Iron after opening the vacuum package)",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large"
+      ],
+      "categoryLabel": "Dresses",
+      "title": "CIDER Polka Dot Mini Dress",
+      "images": [
+        {
+          "src": "/assets/uploads/d1.jpg",
+          "alt": "v1"
+        },
+        {
+          "src": "/assets/uploads/d2.jpg",
+          "alt": "v2"
+        }
+      ],
+      "tag": "Woman Dresses",
+      "description": "This stylish mini dress features a fitted silhouette with a classic polka dot pattern, flattering square neckline, and sleeveless design for a youthful and feminine look. Perfect for warm weather, it offers breathability and easy movement while effortlessly transitioning from casual outings to date nights and special occasions. Customers with a fuller bust may prefer to size up for a more comfortable fit.",
+      "category": "woman-dresses",
+      "group": "Woman"
     }
   ]
 }
