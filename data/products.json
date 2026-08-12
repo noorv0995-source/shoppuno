@@ -822,6 +822,27 @@
       "description": "This stylish mini dress features a fitted silhouette with a classic polka dot pattern, flattering square neckline, and sleeveless design for a youthful and feminine look. Perfect for warm weather, it offers breathability and easy movement while effortlessly transitioning from casual outings to date nights and special occasions. Customers with a fuller bust may prefer to size up for a more comfortable fit.",
       "category": "woman-dresses",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4wQFVzj",
+      "color": "Orange-brown Frame/Light Brown Lens  ",
+      "slug": "retro-oval-90s-sunglasses",
+      "care": "Gently clean with the provided cloth. Avoid water and harsh chemicals.",
+      "categoryLabel": "Accessories",
+      "title": "Retro Oval 90s Sunglasses",
+      "images": [
+        {
+          "src": "/assets/uploads/wg1.jpg",
+          "alt": "v1"
+        },
+        {
+          "src": "/assets/uploads/wg2.jpg",
+          "alt": "v2"
+        }
+      ],
+      "description": "These retro oval sunglasses feature a stylish 90s-inspired narrow design that adds a chic vintage touch to any outfit. Equipped with lenses that block 99.99% of UVA and UVB rays, they provide reliable sun protection while the lightweight construction ensures comfortable all-day wear. Perfect for casual outings, parties, or dressier occasions, they pair effortlessly with everything from T-shirts to suits. The 2-pack includes two pairs of sunglasses, a cleaning cloth, and a storage box, making them a versatile and convenient choice for everyday styling.",
+      "category": "woman-accessories",
+      "group": "Woman"
     }
   ]
 }
