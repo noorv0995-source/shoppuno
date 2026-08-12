@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "weathered-paper-7271",
+  "compatibility_date": "2026-08-12",
+  "assets": {
+    "directory": ".",
+    "exclude": [
+      ".git/**",
+      ".github/**",
+      ".wrangler/**",
+      "node_modules/**"
+    ]
+  }
+}
