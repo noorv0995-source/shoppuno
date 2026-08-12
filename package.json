@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build:assets": "node scripts/build-assets.js",
+    "deploy": "npm run build:assets && wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.122.0"
+  }
+}
