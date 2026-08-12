@@ -27,6 +27,7 @@ const topLevelFiles = [
   "styles.css",
   "terms.html",
   "wide-calf-boot-guide.html",
+  "woman-activewear.html",
   "woman-accessories.html",
   "woman-bags.html",
   "woman-cardigans.html",
