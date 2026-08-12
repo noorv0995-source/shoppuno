@@ -863,6 +863,35 @@
       "description": "Prada Dark Grey Rectangular Men's Sunglasses PR 27ZS 16K08Z 54",
       "category": "woman-accessories",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4xCgPV1",
+      "color": "Pink",
+      "slug": "womens-waterproof-rain-jacket",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Jackets",
+      "title": "Women's Waterproof Rain Jacket",
+      "images": [
+        {
+          "src": "/assets/uploads/wj5.jpg",
+          "alt": "V1"
+        },
+        {
+          "src": "/assets/uploads/wj6.jpg",
+          "alt": "V2"
+        }
+      ],
+      "description": "This lightweight, water-resistant hooded windbreaker helps keep you dry and comfortable during light rain and windy conditions while allowing easy movement. Featuring a full-length zipper, adjustable hood, and secure pockets, it combines practical protection with a versatile sporty style. Perfect for hiking, trekking, camping, biking, commuting, travel, festivals, and everyday wear, it pairs easily with leggings, jeans, or hiking pants. Machine wash on a gentle cycle and hang to dry for easy care.",
+      "category": "woman-jackets",
+      "group": "Woman"
     }
   ]
 }
