@@ -1131,6 +1131,31 @@
       "description": "These shoes feature a laid-back yet polished design that combines everyday comfort with timeless style. Crafted from high-quality materials for durability, they include a signature crocodile logo for a subtle touch of brand heritage. A cushioned footbed and flexible sole provide supportive comfort throughout the day, making them perfect for casual outings, weekends, or relaxed office settings. They pair effortlessly with jeans, chinos, or shorts.",
       "category": "men-shoes",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4wvdRRg",
+      "slug": "womens-faux-leather-belts",
+      "care": "Wet Wipe Clean",
+      "sizes": [
+        "Length:35.4''-Fit Waist Size 22\"-25\"",
+        "Length:39.4''-Fit Waist Size 26\"-31\"",
+        "Length:43.3''-Fit Waist Size 32''-36''",
+        "Length:43.3\"-Fit Waist Size 37\"-41\"",
+        "Length:43.3''-Fit Waist Size 32''-36''",
+        "Length:47.2''-Fit Waist Size 37\"-41\"",
+        "Length:51.1''-Fit Waist Size 41\"-45\""
+      ],
+      "categoryLabel": "Accessories",
+      "title": "Women's Faux Leather Belts",
+      "images": [
+        {
+          "src": "/assets/uploads/wac6.jpg",
+          "alt": "v1"
+        }
+      ],
+      "description": "Made from soft, comfortable PU leather, this 2-pack women's belt set features stylish oval-shaped metal buckles with a polished finish for a modern, elegant touch. Available in versatile color combinations, these thin belts pair effortlessly with jeans, skirts, dresses, and pants while adding both style and function to any outfit. Measuring 0.9 inches wide and fitting waists from 22–45 inches, they offer a versatile fit for most women; please measure your waist before ordering. With their timeless design, they also make a thoughtful gift for birthdays, anniversaries, holidays, and other special occasions.",
+      "category": "woman-accessories",
+      "group": "Woman"
     }
   ]
 }
