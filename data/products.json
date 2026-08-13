@@ -1070,6 +1070,32 @@
       "description": "Crafted from a soft, cozy wool blend, this unisex sweater provides excellent warmth while remaining breathable and comfortable. Featuring a timeless preppy cable-knit design with a modern oversized drop-shoulder silhouette, ribbed crewneck, and cuffs, it creates a relaxed streetwear look with a stylish slouchy drape. Perfect for campus life, travel, holiday parties, and everyday casual wear, it is durable, wrinkle-resistant, and designed to maintain its shape and color after washing.",
       "category": "men-knitwear",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4zyqzBB",
+      "color": "All Black",
+      "slug": "mens-quarter-zip-fleece-pullover",
+      "fit": "\tRegular",
+      "care": "Machine Wash",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large",
+        "3X-Large"
+      ],
+      "categoryLabel": "Activewear",
+      "title": "Men's Quarter Zip Fleece Pullover",
+      "images": [
+        {
+          "src": "/assets/uploads/mac5.jpg",
+          "alt": "V1"
+        }
+      ],
+      "description": "The COOFANDY men's quarter-zip sweatshirt features a soft fleece-lined interior for cozy warmth without added bulk, while its lightweight, breathable, and wrinkle-resistant fabric provides all-day comfort. Designed with a classic mock neckline and functional quarter-zip closure, it can be worn alone or layered under a jacket and pairs easily with jeans, joggers, or chinos. Perfect for sports, golf, fitness, travel, outdoor activities, errands, and everyday wear, it's especially suitable for spring and fall or as a winter layering piece. With its versatile regular fit and timeless style, it also makes a thoughtful gift for Christmas, Thanksgiving, birthdays, or Father's Day. Please refer to the size chart before ordering.",
+      "category": "men-activewear",
+      "group": "Men"
     }
   ]
 }
