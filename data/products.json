@@ -1096,6 +1096,41 @@
       "description": "The COOFANDY men's quarter-zip sweatshirt features a soft fleece-lined interior for cozy warmth without added bulk, while its lightweight, breathable, and wrinkle-resistant fabric provides all-day comfort. Designed with a classic mock neckline and functional quarter-zip closure, it can be worn alone or layered under a jacket and pairs easily with jeans, joggers, or chinos. Perfect for sports, golf, fitness, travel, outdoor activities, errands, and everyday wear, it's especially suitable for spring and fall or as a winter layering piece. With its versatile regular fit and timeless style, it also makes a thoughtful gift for Christmas, Thanksgiving, birthdays, or Father's Day. Please refer to the size chart before ordering.",
       "category": "men-activewear",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4woaAmI",
+      "color": "White & Dark Green",
+      "slug": "lacoste-court-base-sneakers",
+      "sizes": [
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9",
+        "9.5",
+        "10",
+        "10.5",
+        "11",
+        "11.5",
+        "12",
+        "12.5",
+        "13"
+      ],
+      "categoryLabel": "Shoes",
+      "title": "Lacoste Court Base Sneakers",
+      "images": [
+        {
+          "src": "/assets/uploads/ms3.jpg",
+          "alt": "v1"
+        },
+        {
+          "src": "/assets/uploads/ms3-1-.jpg",
+          "alt": "v2"
+        }
+      ],
+      "description": "These shoes feature a laid-back yet polished design that combines everyday comfort with timeless style. Crafted from high-quality materials for durability, they include a signature crocodile logo for a subtle touch of brand heritage. A cushioned footbed and flexible sole provide supportive comfort throughout the day, making them perfect for casual outings, weekends, or relaxed office settings. They pair effortlessly with jeans, chinos, or shorts.",
+      "category": "men-shoes",
+      "group": "Men"
     }
   ]
 }
