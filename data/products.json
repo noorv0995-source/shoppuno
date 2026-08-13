@@ -921,6 +921,36 @@
       "description": "Made from a soft, stretchy brushed polyester-spandex blend, this Y2K-inspired slim-fit top features a double-layer front for added coverage and warmth. Designed with a flattering boat neckline, flare bell sleeves, and a fitted silhouette, it offers comfortable movement while creating a stylish look. Perfect for clubbing, date nights, casual outings, work, commuting, or lounging, it can be worn alone or layered under sweaters and jackets. Machine wash cold in a laundry bag, avoid bleach, and lay flat to dry. Please refer to the size chart for the best fit.",
       "category": "woman-shirts",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4g4KyyB",
+      "color": "Coffee",
+      "slug": "womens-wool-blend-trench-coat",
+      "fit": "Classic",
+      "care": "Dry clean or hand wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Jackets",
+      "title": "Women's Wool Blend Trench Coat",
+      "images": [
+        {
+          "src": "/assets/uploads/wj2.jpg",
+          "alt": "v1"
+        },
+        {
+          "src": "/assets/uploads/wj1.jpg",
+          "alt": "v2"
+        }
+      ],
+      "description": "Made from a high-quality wool blend, this elegant women's coat features a collarless round neck, long sleeves, relaxed drop shoulders, two large patch pockets, and a removable scarf for versatile styling in different weather. Its vintage-inspired design pairs effortlessly with sweaters, shirts, crop tops, leggings, jeans, skirts, trousers, or knit dresses. Perfect for work, school, casual outings, parties, dates, shopping, travel, holidays, and special occasions. Available in a range of colors and sizes from XS to XXL; please refer to the size chart before ordering.",
+      "category": "woman-jackets",
+      "group": "Woman"
     }
   ]
 }
