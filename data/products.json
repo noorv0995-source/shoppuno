@@ -1011,6 +1011,37 @@
       "description": "Made from soft, lightweight, breathable, and stretchy fabric, this oversized acid-wash hoodie offers all-day comfort with a relaxed unisex fit. Featuring ribbed cuffs and hem, a spacious kangaroo pocket, vintage acid-wash finish, and classic hood, it delivers a stylish Y2K and hip-hop streetwear look. Easy to pair with jeans, pants, leggings, skirts, or shorts, it is perfect for everyday wear, sports, hiking, cycling, shopping, parties, travel, and casual outings in any season. Hand wash or machine wash gently in cold water, hang to dry, and avoid bleach. Due to the acid-wash process, each piece may have unique color and pattern variations.",
       "category": "men-hoodie",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/3SvUae0",
+      "color": "Black",
+      "slug": "mens-single-breasted-trench-coat",
+      "fit": "Slim",
+      "care": "Machien Wash",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large",
+        "3X-Large",
+        "4X-Large"
+      ],
+      "categoryLabel": "Coats",
+      "title": "Men's Single Breasted Trench Coat",
+      "images": [
+        {
+          "src": "/assets/uploads/mc1.jpg",
+          "alt": "v1"
+        },
+        {
+          "src": "/assets/uploads/mc2.jpg",
+          "alt": "v2"
+        }
+      ],
+      "description": "Made from a soft and comfortable polyester-spandex blend, this men's long trench coat provides warmth and a polished look for cooler weather. Featuring long sleeves, a notched lapel collar, three-button single-breasted closure, two pockets, and a slim business-inspired fit, it creates an elegant and sophisticated silhouette. Easy to pair with shirts, suits, trousers, jeans, and dress shoes, it's ideal for work, school, dates, business meetings, and everyday wear in spring, fall, and winter. Please refer to the brand's size chart to choose the correct US size.",
+      "category": "men-coats",
+      "group": "Men"
     }
   ]
 }
