@@ -1042,6 +1042,34 @@
       "description": "Made from a soft and comfortable polyester-spandex blend, this men's long trench coat provides warmth and a polished look for cooler weather. Featuring long sleeves, a notched lapel collar, three-button single-breasted closure, two pockets, and a slim business-inspired fit, it creates an elegant and sophisticated silhouette. Easy to pair with shirts, suits, trousers, jeans, and dress shoes, it's ideal for work, school, dates, business meetings, and everyday wear in spring, fall, and winter. Please refer to the brand's size chart to choose the correct US size.",
       "category": "men-coats",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4cEPlpw",
+      "color": "Dark Blue",
+      "slug": "mens-cable-knit-crewneck-sweater",
+      "care": "Machine Wash",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Knitwear",
+      "title": "Men's Cable Knit Crewneck Sweater",
+      "images": [
+        {
+          "src": "/assets/uploads/mkw1.jpg",
+          "alt": "v1"
+        },
+        {
+          "src": "/assets/uploads/mkw2.jpg",
+          "alt": "v2"
+        }
+      ],
+      "description": "Crafted from a soft, cozy wool blend, this unisex sweater provides excellent warmth while remaining breathable and comfortable. Featuring a timeless preppy cable-knit design with a modern oversized drop-shoulder silhouette, ribbed crewneck, and cuffs, it creates a relaxed streetwear look with a stylish slouchy drape. Perfect for campus life, travel, holiday parties, and everyday casual wear, it is durable, wrinkle-resistant, and designed to maintain its shape and color after washing.",
+      "category": "men-knitwear",
+      "group": "Men"
     }
   ]
 }
