@@ -1156,6 +1156,35 @@
       "description": "Made from soft, comfortable PU leather, this 2-pack women's belt set features stylish oval-shaped metal buckles with a polished finish for a modern, elegant touch. Available in versatile color combinations, these thin belts pair effortlessly with jeans, skirts, dresses, and pants while adding both style and function to any outfit. Measuring 0.9 inches wide and fitting waists from 22–45 inches, they offer a versatile fit for most women; please measure your waist before ordering. With their timeless design, they also make a thoughtful gift for birthdays, anniversaries, holidays, and other special occasions.",
       "category": "woman-accessories",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/3TL5LX4",
+      "color": "Coffee",
+      "slug": "womens-high-waisted-wide-leg-pants",
+      "fit": "Regular",
+      "care": "machien wash",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Jeans",
+      "title": "Women's High Waisted Wide Leg Pants",
+      "images": [
+        {
+          "src": "/assets/uploads/wj8.jpg",
+          "alt": "1"
+        },
+        {
+          "src": "/assets/uploads/wj9.jpg",
+          "alt": "2"
+        }
+      ],
+      "description": "These women's wide-leg dress pants are made from high-quality, skin-friendly fabric for comfortable all-day wear. Featuring a flattering high-waisted design, front button and zipper closure, tailored pleats, stretch elastic back waistband, and two side pockets, they create an elegant, flowing silhouette suitable for various body types. Perfect for the office, interviews, meetings, vacations, beach outings, casual wear, and everyday occasions, these versatile pants pair effortlessly with a variety of tops and shoes. Available in multiple colors and sizes from S to XXL; please refer to the size chart before ordering.",
+      "category": "woman-jeans",
+      "group": "Woman"
     }
   ]
 }
