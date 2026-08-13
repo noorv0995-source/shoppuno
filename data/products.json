@@ -951,6 +951,36 @@
       "description": "Made from a high-quality wool blend, this elegant women's coat features a collarless round neck, long sleeves, relaxed drop shoulders, two large patch pockets, and a removable scarf for versatile styling in different weather. Its vintage-inspired design pairs effortlessly with sweaters, shirts, crop tops, leggings, jeans, skirts, trousers, or knit dresses. Perfect for work, school, casual outings, parties, dates, shopping, travel, holidays, and special occasions. Available in a range of colors and sizes from XS to XXL; please refer to the size chart before ordering.",
       "category": "woman-jackets",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4xF463T",
+      "color": "Coffee",
+      "slug": "trendy-queen-womens-2-piece-matching-summer-lounge-set-with-pockets",
+      "fit": "Regular",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Activewear",
+      "title": "Trendy Queen Women's 2 Piece Matching Summer Lounge Set with Pockets",
+      "images": [
+        {
+          "src": "/assets/uploads/wac3.jpg",
+          "alt": "V1"
+        },
+        {
+          "src": "/assets/uploads/wac4.jpg",
+          "alt": "V2"
+        }
+      ],
+      "description": "Summer-Ready Comfort & Style—Experience the smooth, breathable feel of our signature rayon-spandex blend, perfectly tailored for warm weather. This lightweight set offers gentle stretch and all-day ease, keeping you cool and comfortable whether you're relaxing at home or out in the sun.\nConfident & Practical Fit—Designed to elevate your everyday look. The short-sleeve top features delicate side ruching for a feminine touch, with a modestly cropped hem that hits just right to flatter your waistline. The flowy wide-leg pants complete the outfit with an adjustable drawstring waist and convenient side pockets—perfect for carrying essentials hands-free. Together, they create a chic, customizable silhouette that celebrates every body type with both style and everyday function.\nVersatile & Cross Scenes Ready—Effortlessly adapts to your entire schedule. Enjoy polished comfort for Working From Home and virtual meetings. Transition seamlessly to running errands or coffee dates with sneakers. For weekend getaways, style it with sandals and a tote. Dress it up easily with jewelry for dinners or special events. Great for lounge, vacation, travel, and business casual settings to low-intensity workouts, it’s a truly capsule wardrobe staple for the season.\nMachine Washable - Easy Care, Lasting Wear— for best results, machine wash cold in a laundry bag, then lay flat to dry or tumble dry low. Avoid bleach.\nSize Guide—Please refer to size chart above the product description for details before purchase.",
+      "category": "woman-activewear",
+      "group": "Woman"
     }
   ]
 }
