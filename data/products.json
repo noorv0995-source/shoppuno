@@ -892,6 +892,35 @@
       "description": "This lightweight, water-resistant hooded windbreaker helps keep you dry and comfortable during light rain and windy conditions while allowing easy movement. Featuring a full-length zipper, adjustable hood, and secure pockets, it combines practical protection with a versatile sporty style. Perfect for hiking, trekking, camping, biking, commuting, travel, festivals, and everyday wear, it pairs easily with leggings, jeans, or hiking pants. Machine wash on a gentle cycle and hang to dry for easy care.",
       "category": "woman-jackets",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4wusMLo",
+      "color": "Dark Blue",
+      "slug": "womens-y2k-cropped-bell-sleeve-top",
+      "fit": "Regular",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large"
+      ],
+      "categoryLabel": "Shirts",
+      "title": "Women's Y2K Cropped Bell Sleeve Top",
+      "images": [
+        {
+          "src": "/assets/uploads/ws1.jpg",
+          "alt": "v1"
+        },
+        {
+          "src": "/assets/uploads/ws2.jpg",
+          "alt": "v2"
+        }
+      ],
+      "description": "Made from a soft, stretchy brushed polyester-spandex blend, this Y2K-inspired slim-fit top features a double-layer front for added coverage and warmth. Designed with a flattering boat neckline, flare bell sleeves, and a fitted silhouette, it offers comfortable movement while creating a stylish look. Perfect for clubbing, date nights, casual outings, work, commuting, or lounging, it can be worn alone or layered under sweaters and jackets. Machine wash cold in a laundry bag, avoid bleach, and lay flat to dry. Please refer to the size chart for the best fit.",
+      "category": "woman-shirts",
+      "group": "Woman"
     }
   ]
 }
