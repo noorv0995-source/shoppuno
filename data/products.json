@@ -981,6 +981,36 @@
       "description": "Summer-Ready Comfort & Style—Experience the smooth, breathable feel of our signature rayon-spandex blend, perfectly tailored for warm weather. This lightweight set offers gentle stretch and all-day ease, keeping you cool and comfortable whether you're relaxing at home or out in the sun.\nConfident & Practical Fit—Designed to elevate your everyday look. The short-sleeve top features delicate side ruching for a feminine touch, with a modestly cropped hem that hits just right to flatter your waistline. The flowy wide-leg pants complete the outfit with an adjustable drawstring waist and convenient side pockets—perfect for carrying essentials hands-free. Together, they create a chic, customizable silhouette that celebrates every body type with both style and everyday function.\nVersatile & Cross Scenes Ready—Effortlessly adapts to your entire schedule. Enjoy polished comfort for Working From Home and virtual meetings. Transition seamlessly to running errands or coffee dates with sneakers. For weekend getaways, style it with sandals and a tote. Dress it up easily with jewelry for dinners or special events. Great for lounge, vacation, travel, and business casual settings to low-intensity workouts, it’s a truly capsule wardrobe staple for the season.\nMachine Washable - Easy Care, Lasting Wear— for best results, machine wash cold in a laundry bag, then lay flat to dry or tumble dry low. Avoid bleach.\nSize Guide—Please refer to size chart above the product description for details before purchase.",
       "category": "woman-activewear",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4xF4S0N",
+      "color": "Grey(hooded)",
+      "slug": "mens-oversized-acid-wash-hoodie",
+      "fit": "Loose",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Hoodie",
+      "title": "Men's Oversized Acid Wash Hoodie",
+      "images": [
+        {
+          "src": "/assets/uploads/mhd1.jpg",
+          "alt": "v1"
+        },
+        {
+          "src": "/assets/uploads/mhd2.jpg",
+          "alt": "v2"
+        }
+      ],
+      "description": "Made from soft, lightweight, breathable, and stretchy fabric, this oversized acid-wash hoodie offers all-day comfort with a relaxed unisex fit. Featuring ribbed cuffs and hem, a spacious kangaroo pocket, vintage acid-wash finish, and classic hood, it delivers a stylish Y2K and hip-hop streetwear look. Easy to pair with jeans, pants, leggings, skirts, or shorts, it is perfect for everyday wear, sports, hiking, cycling, shopping, parties, travel, and casual outings in any season. Hand wash or machine wash gently in cold water, hang to dry, and avoid bleach. Due to the acid-wash process, each piece may have unique color and pattern variations.",
+      "category": "men-hoodie",
+      "group": "Men"
     }
   ]
 }
