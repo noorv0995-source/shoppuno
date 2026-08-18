@@ -1185,6 +1185,25 @@
       "description": "These women's wide-leg dress pants are made from high-quality, skin-friendly fabric for comfortable all-day wear. Featuring a flattering high-waisted design, front button and zipper closure, tailored pleats, stretch elastic back waistband, and two side pockets, they create an elegant, flowing silhouette suitable for various body types. Perfect for the office, interviews, meetings, vacations, beach outings, casual wear, and everyday occasions, these versatile pants pair effortlessly with a variety of tops and shoes. Available in multiple colors and sizes from S to XXL; please refer to the size chart before ordering.",
       "category": "woman-jeans",
       "group": "Woman"
+    },
+    {
+      "title": "Boho Beaded Layered Necklace",
+      "slug": "boho-beaded-layered-necklace",
+      "group": "Woman",
+      "category": "woman-accessories",
+      "categoryLabel": "Accessories",
+      "color": "Pink Rope 2 Layer-Pearl Enamel Charms",
+      "images": [
+        {
+          "src": "/assets/uploads/wac8.jpg",
+          "alt": "v1"
+        },
+        {
+          "src": "/assets/uploads/wac9.jpg",
+          "alt": "v2"
+        }
+      ],
+      "description": "This playful double-layer necklace set features faux pearl beads, colorful alloy pendants, and a vibrant pink cord for a fresh, chic look. Made with lightweight, durable, hypoallergenic, nickel-free, and lead-free materials, it offers comfortable all-day wear. Perfect for casual outfits, sundresses, beach vacations, parties, and gatherings, this versatile jewelry set adds a colorful statement to any look and makes a thoughtful gift for birthdays, holidays, or fashion-loving friends."
     }
   ]
 }
