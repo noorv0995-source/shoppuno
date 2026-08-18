@@ -1187,12 +1187,11 @@
       "group": "Woman"
     },
     {
-      "title": "Boho Beaded Layered Necklace",
-      "slug": "boho-beaded-layered-necklace",
-      "group": "Woman",
-      "category": "woman-accessories",
-      "categoryLabel": "Accessories",
+      "affiliateUrl": "https://amzn.to/4zo8vJZ",
       "color": "Pink Rope 2 Layer-Pearl Enamel Charms",
+      "slug": "boho-beaded-layered-necklace",
+      "categoryLabel": "Accessories",
+      "title": "Boho Beaded Layered Necklace",
       "images": [
         {
           "src": "/assets/uploads/wac8.jpg",
@@ -1203,7 +1202,26 @@
           "alt": "v2"
         }
       ],
-      "description": "This playful double-layer necklace set features faux pearl beads, colorful alloy pendants, and a vibrant pink cord for a fresh, chic look. Made with lightweight, durable, hypoallergenic, nickel-free, and lead-free materials, it offers comfortable all-day wear. Perfect for casual outfits, sundresses, beach vacations, parties, and gatherings, this versatile jewelry set adds a colorful statement to any look and makes a thoughtful gift for birthdays, holidays, or fashion-loving friends."
+      "description": "This playful double-layer necklace set features faux pearl beads, colorful alloy pendants, and a vibrant pink cord for a fresh, chic look. Made with lightweight, durable, hypoallergenic, nickel-free, and lead-free materials, it offers comfortable all-day wear. Perfect for casual outfits, sundresses, beach vacations, parties, and gatherings, this versatile jewelry set adds a colorful statement to any look and makes a thoughtful gift for birthdays, holidays, or fashion-loving friends.",
+      "category": "woman-accessories",
+      "group": "Woman"
+    },
+    {
+      "color": "white",
+      "slug": "womens-off-shoulder-long-sleeve-top",
+      "fit": "Slim Fit",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Shirts",
+      "title": "Women's Off-Shoulder Long Sleeve Top",
+      "description": "Made from soft, breathable, and stretchy ribbed knit fabric, this women's off-shoulder top offers a comfortable, flattering fit with a stylish asymmetric neckline that highlights the collarbone. Its form-fitting silhouette transitions effortlessly from day to night and pairs well with jeans, skirts, or dress pants. Perfect for dates, work, campus, casual outings, vacations, travel, and gatherings, this versatile top is a stylish wardrobe staple. Machine wash cold on a gentle cycle, lay flat to dry, and avoid bleach, high heat, and tumble drying. Please refer to the size chart before ordering.",
+      "category": "woman-shirts",
+      "group": "Woman"
     }
   ]
 }
