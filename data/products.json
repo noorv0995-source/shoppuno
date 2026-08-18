@@ -1311,6 +1311,35 @@
       "description": "Made from soft, skin-friendly, medium-stretch ribbed knit fabric, this slim-fit polo shirt offers a comfortable and flattering silhouette that resists wrinkles and maintains its shape. Featuring stylish color-block detailing and a classic ribbed design, it adds a polished touch to both everyday and workwear looks. Perfect for the office, casual outings, home, dates, and year-round wear, it pairs effortlessly with jeans, midi skirts, suit pants, and more.",
       "category": "woman-shirts",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/3UFLPVG",
+      "color": "Black",
+      "slug": "womens-chunky-knit-pullover-sweater",
+      "fit": "Relaxed",
+      "care": "Hand Wash Only",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        " XX-Large"
+      ],
+      "categoryLabel": "Knitwear",
+      "title": "Women's Chunky Knit Pullover Sweater",
+      "images": [
+        {
+          "src": "/assets/uploads/ws14-4-.jpg",
+          "alt": "v1"
+        },
+        {
+          "src": "/assets/uploads/ws14-5-.jpg",
+          "alt": "v2"
+        }
+      ],
+      "description": "Made from high-quality fibers with a luxuriously soft feel, this women's chunky knit sweater provides cozy comfort and warmth for cooler weather. Featuring a mock neck, long sleeves, drop shoulders, ribbed details, contrast stitching, and an oversized loose fit, it creates a trendy yet relaxed silhouette. Easy to pair with jeans, pants, skirts, heels, sneakers, or boots, this versatile sweater is perfect for casual outings, work, dates, parties, and layering. Available in a variety of colors and sizes from S to XXL; please refer to the size chart before ordering.",
+      "category": "woman-knitwear",
+      "group": "Woman"
     }
   ]
 }
