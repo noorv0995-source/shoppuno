@@ -1207,9 +1207,11 @@
       "group": "Woman"
     },
     {
+      "affiliateUrl": "https://amzn.to/4hGxwKk",
       "color": "white",
       "slug": "womens-off-shoulder-long-sleeve-top",
       "fit": "Slim Fit",
+      "care": "Machine Wash",
       "sizes": [
         "Small",
         "Medium",
@@ -1219,6 +1221,16 @@
       ],
       "categoryLabel": "Shirts",
       "title": "Women's Off-Shoulder Long Sleeve Top",
+      "images": [
+        {
+          "src": "/assets/uploads/ws12.jpg",
+          "alt": "V1"
+        },
+        {
+          "src": "/assets/uploads/ws13-1-.jpg",
+          "alt": "V2"
+        }
+      ],
       "description": "Made from soft, breathable, and stretchy ribbed knit fabric, this women's off-shoulder top offers a comfortable, flattering fit with a stylish asymmetric neckline that highlights the collarbone. Its form-fitting silhouette transitions effortlessly from day to night and pairs well with jeans, skirts, or dress pants. Perfect for dates, work, campus, casual outings, vacations, travel, and gatherings, this versatile top is a stylish wardrobe staple. Machine wash cold on a gentle cycle, lay flat to dry, and avoid bleach, high heat, and tumble drying. Please refer to the size chart before ordering.",
       "category": "woman-shirts",
       "group": "Woman"
