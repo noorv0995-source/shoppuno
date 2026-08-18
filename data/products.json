@@ -1263,6 +1263,30 @@
       "description": "Made from soft, stretchy, breathable knitted fabric, this women's cropped sweater offers comfortable all-day wear with a relaxed, oversized fit. Featuring a crew neckline, 3/4 sleeves, oversized cuffs, ribbed neck and hem, and a simple solid-color design, it creates a cute and casual look. Perfect for school, work, shopping, dates, parties, vacations, and everyday wear, it pairs easily with jeans, sneakers, or layered under a coat. Hand wash is recommended; if machine washing, use a laundry bag, wash colors separately, hang dry, and avoid bleach.",
       "category": "woman-knitwear",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4g5Wl0T",
+      "color": "Beige",
+      "slug": "womens-striped-tie-front-cardigan",
+      "care": "Hand Wash Only",
+      "sizes": [
+        "Large Plus",
+        "X-Large Plus",
+        "XX-Large Plus",
+        "3X-Large Plus",
+        "4X-Large Plus"
+      ],
+      "categoryLabel": "Cardigans",
+      "title": "Women's Striped Tie-Front Cardigan",
+      "images": [
+        {
+          "src": "/assets/uploads/ws14-2-.jpg",
+          "alt": "v1"
+        }
+      ],
+      "description": "Made from soft, skin-friendly fabric with a slight stretch, this lightweight knit cardigan features a trendy striped design, long sleeves, V-neckline, and stylish tie-front detail. Its versatile design pairs effortlessly with wide-leg pants, jeans, high-waisted trousers, leggings, mini skirts, or denim shorts for a chic everyday look. Perfect for casual outings, vacations, holidays, weekends, and picnics. Please refer to the size chart before ordering.",
+      "category": "woman-cardigans",
+      "group": "Woman"
     }
   ]
 }
