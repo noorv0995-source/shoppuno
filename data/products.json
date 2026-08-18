@@ -1287,6 +1287,30 @@
       "description": "Made from soft, skin-friendly fabric with a slight stretch, this lightweight knit cardigan features a trendy striped design, long sleeves, V-neckline, and stylish tie-front detail. Its versatile design pairs effortlessly with wide-leg pants, jeans, high-waisted trousers, leggings, mini skirts, or denim shorts for a chic everyday look. Perfect for casual outings, vacations, holidays, weekends, and picnics. Please refer to the size chart before ordering.",
       "category": "woman-cardigans",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4gqvETM",
+      "color": "Black",
+      "slug": "womens-ribbed-v-neck-polo-top",
+      "care": "Machine Wash",
+      "sizes": [
+        "Small",
+        "Medium ",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Shirts",
+      "title": "Women's Ribbed V-Neck Polo Top",
+      "images": [
+        {
+          "src": "/assets/uploads/ws14-3-.jpg",
+          "alt": "v1"
+        }
+      ],
+      "description": "Made from soft, skin-friendly, medium-stretch ribbed knit fabric, this slim-fit polo shirt offers a comfortable and flattering silhouette that resists wrinkles and maintains its shape. Featuring stylish color-block detailing and a classic ribbed design, it adds a polished touch to both everyday and workwear looks. Perfect for the office, casual outings, home, dates, and year-round wear, it pairs effortlessly with jeans, midi skirts, suit pants, and more.",
+      "category": "woman-shirts",
+      "group": "Woman"
     }
   ]
 }
