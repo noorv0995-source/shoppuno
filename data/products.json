@@ -1234,6 +1234,35 @@
       "description": "Made from soft, breathable, and stretchy ribbed knit fabric, this women's off-shoulder top offers a comfortable, flattering fit with a stylish asymmetric neckline that highlights the collarbone. Its form-fitting silhouette transitions effortlessly from day to night and pairs well with jeans, skirts, or dress pants. Perfect for dates, work, campus, casual outings, vacations, travel, and gatherings, this versatile top is a stylish wardrobe staple. Machine wash cold on a gentle cycle, lay flat to dry, and avoid bleach, high heat, and tumble drying. Please refer to the size chart before ordering.",
       "category": "woman-shirts",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4gmDGwQ",
+      "color": "Brown",
+      "slug": "womens-cropped-knit-sweater",
+      "care": "Machine Wash",
+      "sizes": [
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Knitwear",
+      "title": "Women's Cropped Knit Sweater",
+      "images": [
+        {
+          "src": "/assets/uploads/ws14.jpg",
+          "alt": "v1"
+        },
+        {
+          "src": "/assets/uploads/ws14-1-.jpg",
+          "alt": "v2"
+        }
+      ],
+      "description": "Made from soft, stretchy, breathable knitted fabric, this women's cropped sweater offers comfortable all-day wear with a relaxed, oversized fit. Featuring a crew neckline, 3/4 sleeves, oversized cuffs, ribbed neck and hem, and a simple solid-color design, it creates a cute and casual look. Perfect for school, work, shopping, dates, parties, vacations, and everyday wear, it pairs easily with jeans, sneakers, or layered under a coat. Hand wash is recommended; if machine washing, use a laundry bag, wash colors separately, hang dry, and avoid bleach.",
+      "category": "woman-knitwear",
+      "group": "Woman"
     }
   ]
 }
