@@ -249,29 +249,25 @@ function renderProductDetail(products) {
           <p class="eyebrow">${escapeHtml(product.tag || categoryLabel)}</p>
           <h1>${escapeHtml(product.title)}</h1>
           <p>${escapeHtml(product.description || "Product details are being updated.")}</p>
-          <div class="product-meta">
+          <dl class="product-meta">
             <div>
-              <span>Colour</span>
-              <strong>${escapeHtml(product.color || "See product page")}</strong>
+              <dt>Colour</dt>
+              <dd>${escapeHtml(product.color || "See product page")}</dd>
             </div>
             <div>
-              <span>Fit</span>
-              <strong>${escapeHtml(product.fit || "See product page")}</strong>
+              <dt>Fit</dt>
+              <dd>${escapeHtml(product.fit || "See product page")}</dd>
             </div>
-            <div>
-              <span>Status</span>
-              <strong>${escapeHtml(product.status || "Ready to link")}</strong>
-            </div>
-          </div>
+          </dl>
           <div class="size-row" aria-label="Available sizes">
             ${sizes.length ? sizes.map((size) => `<span>${escapeHtml(size)}</span>`).join("") : "<span>See seller page</span>"}
           </div>
           <div class="product-actions">
             ${shopButton}
-            <a class="button secondary" href="${escapeHtml(product.category)}.html">Back to ${escapeHtml(group)} ${escapeHtml(categoryLabel)}</a>
+            <a class="product-back-link" href="${escapeHtml(product.category)}.html">Back to ${escapeHtml(group)} ${escapeHtml(categoryLabel)}</a>
           </div>
           <div class="detail-list">
-            <details open>
+            <details>
               <summary>Editor's Note</summary>
               <p>${escapeHtml(product.editorNote || product.description)}</p>
             </details>

@@ -750,12 +750,13 @@ h3 {
 }
 
 .product-page .product-showcase {
-  padding-top: clamp(28px, 5vw, 54px);
+  padding-top: clamp(36px, 6vw, 72px);
 }
 
 .product-actions {
   display: grid;
-  gap: 10px;
+  justify-items: stretch;
+  gap: 16px;
 }
 
 .button.is-disabled {
@@ -765,52 +766,57 @@ h3 {
 
 .detail-list {
   display: grid;
-  border-top: 1px solid var(--line);
+  margin-top: 6px;
+  border-top: 1px solid rgba(92, 68, 60, 0.18);
 }
 
 .detail-list details {
-  border-bottom: 1px solid var(--line);
-  padding: 18px 0;
+  border-bottom: 1px solid rgba(92, 68, 60, 0.18);
+  padding: 16px 0;
 }
 
 .detail-list summary {
   cursor: pointer;
-  font-weight: 850;
+  color: var(--ink);
+  font-size: 0.95rem;
+  font-weight: 650;
 }
 
 .detail-list p {
   margin: 12px 0 0;
   color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.7;
 }
 
 .product-layout {
   display: grid;
-  grid-template-columns: 86px minmax(0, 1.1fr) minmax(320px, 0.85fr);
-  gap: clamp(18px, 3vw, 48px);
+  grid-template-columns: 76px minmax(0, 1.08fr) minmax(340px, 0.78fr);
+  gap: clamp(22px, 4vw, 68px);
   align-items: start;
 }
 
 .product-thumbs {
   position: sticky;
-  top: 24px;
+  top: 32px;
   display: grid;
-  gap: 10px;
+  gap: 12px;
 }
 
 .product-thumb {
   display: grid;
   aspect-ratio: 4 / 5;
   place-items: center;
-  border: 1px solid var(--line);
-  border-radius: 4px;
+  border: 1px solid rgba(92, 68, 60, 0.18);
+  border-radius: 0;
   padding: 0;
-  background: #f4f1eb;
+  background: rgba(248, 242, 232, 0.64);
   cursor: pointer;
   overflow: hidden;
 }
 
 .product-thumb.is-active {
-  border-color: var(--ink);
+  border-color: rgba(12, 13, 11, 0.72);
 }
 
 .product-thumb img {
@@ -821,9 +827,9 @@ h3 {
 
 .product-main-image {
   display: grid;
-  min-height: clamp(520px, 72vw, 820px);
+  min-height: clamp(560px, 68vw, 820px);
   place-items: center;
-  background: #f4f1eb;
+  background: linear-gradient(180deg, rgba(248, 242, 232, 0.82), rgba(238, 228, 216, 0.58));
 }
 
 .product-main-image img {
@@ -835,57 +841,94 @@ h3 {
 
 .product-details-panel {
   display: grid;
-  gap: 22px;
-  padding-top: clamp(12px, 6vw, 74px);
+  gap: 24px;
+  max-width: 520px;
+  padding-top: clamp(28px, 7vw, 92px);
 }
 
 .product-details-panel h1,
 .product-details-panel h2 {
-  max-width: 560px;
-  font-size: clamp(1.8rem, 3vw, 2.8rem);
-  line-height: 1.08;
+  max-width: 500px;
+  color: #0f1812;
+  font-size: clamp(2.05rem, 3.2vw, 3.4rem);
+  line-height: 0.98;
 }
 
 .product-details-panel p:not(.eyebrow) {
-  max-width: 520px;
+  max-width: 460px;
   color: var(--muted);
+  font-size: 0.98rem;
+  line-height: 1.75;
 }
 
 .product-meta {
   display: grid;
-  border-top: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
+  border-top: 1px solid rgba(92, 68, 60, 0.18);
+  border-bottom: 1px solid rgba(92, 68, 60, 0.18);
 }
 
 .product-meta div {
   display: flex;
   justify-content: space-between;
   gap: 18px;
-  padding: 14px 0;
+  padding: 13px 0;
 }
 
 .product-meta div + div {
-  border-top: 1px solid var(--line);
+  border-top: 1px solid rgba(92, 68, 60, 0.18);
 }
 
-.product-meta span {
+.product-meta dt,
+.product-meta dd {
+  margin: 0;
+}
+
+.product-meta dt {
   color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.product-meta dd {
+  color: var(--ink);
+  font-weight: 650;
 }
 
 .size-row {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 8px;
 }
 
 .size-row span {
   display: grid;
-  min-width: 48px;
-  min-height: 44px;
+  min-width: 42px;
+  min-height: 38px;
   place-items: center;
-  border: 1px solid var(--ink);
-  border-radius: 4px;
-  font-weight: 800;
+  border: 1px solid rgba(92, 68, 60, 0.28);
+  border-radius: 999px;
+  color: var(--ink);
+  background: rgba(248, 242, 232, 0.46);
+  font-size: 0.9rem;
+  font-weight: 650;
+}
+
+.product-details-panel .button.primary {
+  min-height: 50px;
+  border-radius: 999px;
+  background: var(--accent-2);
+  font-size: 0.92rem;
+}
+
+.product-back-link {
+  justify-self: center;
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.product-back-link:hover {
+  color: var(--accent-2);
 }
 
 .guide-band {
@@ -1571,12 +1614,12 @@ h3 {
 
   .product-main-image {
     min-height: auto;
-    aspect-ratio: 1 / 1.18;
+    aspect-ratio: 1 / 1.24;
   }
 
   .product-main-image img {
     max-height: none;
-    object-fit: cover;
+    object-fit: contain;
   }
 
   .product-thumbs {
