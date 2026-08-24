@@ -3,6 +3,22 @@ const menuButton = document.querySelector(".menu-toggle");
 const shopMenu = document.querySelector(".shop-menu");
 const shopTrigger = document.querySelector(".shop-trigger");
 const shopClose = document.querySelector(".shop-close");
+const shopSectionTriggers = document.querySelectorAll(".shop-section-trigger");
+const shopCategoryLists = document.querySelectorAll("[data-shop-category-list]");
+
+function setShopSection(section) {
+  shopSectionTriggers.forEach((trigger) => {
+    const isActive = trigger.getAttribute("data-shop-section") === section;
+    trigger.classList.toggle("is-active", isActive);
+    trigger.setAttribute("aria-selected", String(isActive));
+  });
+
+  shopCategoryLists.forEach((list) => {
+    const isActive = list.getAttribute("data-shop-category-list") === section;
+    list.classList.toggle("is-active", isActive);
+    list.hidden = !isActive;
+  });
+}
 
 function closeShopMenu() {
   shopMenu?.classList.remove("is-open");
@@ -34,9 +50,19 @@ if (shopMenu && shopTrigger) {
   shopTrigger.addEventListener("click", () => {
     const isOpen = shopMenu.classList.toggle("is-open");
     shopTrigger.setAttribute("aria-expanded", String(isOpen));
+
+    if (isOpen) {
+      setShopSection("men");
+    }
   });
 
   shopClose?.addEventListener("click", closeShopMenu);
+
+  shopSectionTriggers.forEach((trigger) => {
+    trigger.addEventListener("click", () => {
+      setShopSection(trigger.getAttribute("data-shop-section"));
+    });
+  });
 
   document.addEventListener("click", (event) => {
     if (event.target.closest(".shop-menu")) return;

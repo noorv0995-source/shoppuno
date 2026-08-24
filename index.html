@@ -20,8 +20,45 @@
           <button class="shop-trigger" type="button" aria-expanded="false" aria-controls="shop-menu-panel">Shop</button>
           <div class="shop-panel" id="shop-menu-panel">
             <button class="shop-close" type="button" aria-label="Close shop menu">&times;</button>
-            <a class="shop-row" href="men-jeans.html"><span>Men</span><span aria-hidden="true">&rsaquo;</span></a>
-            <a class="shop-row" href="woman-jeans.html"><span>Woman</span><span aria-hidden="true">&rsaquo;</span></a>
+            <div class="shop-menu-grid">
+              <div class="shop-primary-list" role="tablist" aria-label="Shop sections">
+                <button class="shop-row shop-section-trigger is-active" type="button" data-shop-section="men" role="tab" aria-selected="true" aria-controls="shop-men-categories"><span>Men</span><span aria-hidden="true">&rsaquo;</span></button>
+                <button class="shop-row shop-section-trigger" type="button" data-shop-section="woman" role="tab" aria-selected="false" aria-controls="shop-woman-categories"><span>Woman</span><span aria-hidden="true">&rsaquo;</span></button>
+              </div>
+              <div class="shop-subpanel">
+                <div class="shop-subcategories is-active" id="shop-men-categories" data-shop-category-list="men" role="tabpanel">
+                  <p class="shop-subtitle">Shop by category</p>
+                  <a href="men-jeans.html">Jeans</a>
+                  <a href="men-t-shirts.html">T-shirts</a>
+                  <a href="men-shirts.html">Shirts</a>
+                  <a href="men-cardigans.html">Cardigans</a>
+                  <a href="men-knitwear.html">Knitwear</a>
+                  <a href="men-coats.html">Coats</a>
+                  <a href="men-jackets.html">Jackets</a>
+                  <a href="men-hoodie.html">Hoodie</a>
+                  <a href="men-activewear.html">Activewear</a>
+                  <a href="men-shoes.html">Shoes</a>
+                  <a href="men-accessories.html">Accessories</a>
+                </div>
+                <div class="shop-subcategories" id="shop-woman-categories" data-shop-category-list="woman" role="tabpanel" hidden>
+                  <p class="shop-subtitle">Shop by category</p>
+                  <a href="woman-jeans.html">Jeans</a>
+                  <a href="woman-dresses.html">Dresses</a>
+                  <a href="woman-skirts.html">Skirts</a>
+                  <a href="woman-t-shirts.html">T-shirts</a>
+                  <a href="woman-shirts.html">Shirts</a>
+                  <a href="woman-cardigans.html">Cardigans</a>
+                  <a href="woman-knitwear.html">Knitwear</a>
+                  <a href="woman-coats.html">Coats</a>
+                  <a href="woman-jackets.html">Jackets</a>
+                  <a href="woman-hoodie.html">Hoodie</a>
+                  <a href="woman-activewear.html">Activewear</a>
+                  <a href="woman-shoes.html">Shoes</a>
+                  <a href="woman-bags.html">Bags</a>
+                  <a href="woman-accessories.html">Accessories</a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </nav>
