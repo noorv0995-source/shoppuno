@@ -28,6 +28,11 @@ body {
   line-height: 1.5;
 }
 
+.home-page {
+  color: #f8efe4;
+  background: #0b0c08;
+}
+
 img {
   display: block;
   max-width: 100%;
@@ -301,6 +306,12 @@ h3 {
   padding: 14px 16px;
   color: #4f3b13;
   background: #fff7df;
+}
+
+.home-page .affiliate-notice {
+  border-color: rgba(217, 174, 107, 0.28);
+  color: #f6ead8;
+  background: #15110d;
 }
 
 .section {
@@ -748,6 +759,25 @@ h3 {
 
 .guide-band {
   background: var(--soft);
+}
+
+.home-page .guide-band {
+  background:
+    linear-gradient(180deg, #0b0c08 0%, #11100c 100%);
+}
+
+.home-page .section-heading p,
+.home-page .blog-card p:not(.eyebrow) {
+  color: #d6cbb9;
+}
+
+.home-page .guide-band h2,
+.home-page .blog-card h3 {
+  color: #f8efe4;
+}
+
+.home-page .blog-card {
+  border-color: rgba(248, 239, 228, 0.2);
 }
 
 .guide-list {
