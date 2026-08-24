@@ -1,11 +1,23 @@
 const header = document.querySelector(".site-header");
 const menuButton = document.querySelector(".menu-toggle");
+const shopMenu = document.querySelector(".shop-menu");
+const shopTrigger = document.querySelector(".shop-trigger");
+const shopClose = document.querySelector(".shop-close");
+
+function closeShopMenu() {
+  shopMenu?.classList.remove("is-open");
+  shopTrigger?.setAttribute("aria-expanded", "false");
+}
 
 if (header && menuButton) {
   menuButton.addEventListener("click", () => {
     const isOpen = header.classList.toggle("menu-open");
     menuButton.setAttribute("aria-expanded", String(isOpen));
     menuButton.textContent = isOpen ? "Close" : "Menu";
+
+    if (!isOpen) {
+      closeShopMenu();
+    }
   });
 
   header.querySelectorAll(".nav a").forEach((link) => {
@@ -13,7 +25,28 @@ if (header && menuButton) {
       header.classList.remove("menu-open");
       menuButton.setAttribute("aria-expanded", "false");
       menuButton.textContent = "Menu";
+      closeShopMenu();
     });
+  });
+}
+
+if (shopMenu && shopTrigger) {
+  shopTrigger.addEventListener("click", () => {
+    const isOpen = shopMenu.classList.toggle("is-open");
+    shopTrigger.setAttribute("aria-expanded", String(isOpen));
+  });
+
+  shopClose?.addEventListener("click", closeShopMenu);
+
+  document.addEventListener("click", (event) => {
+    if (event.target.closest(".shop-menu")) return;
+    closeShopMenu();
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      closeShopMenu();
+    }
   });
 }
 

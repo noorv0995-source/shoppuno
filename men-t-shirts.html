@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -10,9 +10,15 @@
   </head>
   <body class="catalog-page">
     <header class="site-header">
-      <nav class="nav nav-left" aria-label="Shopping navigation">
-        <a href="index.html#men">Men</a>
-        <a href="index.html#woman">Woman</a>
+      <nav class="nav nav-left shop-nav" aria-label="Shopping navigation">
+        <div class="shop-menu">
+          <button class="shop-trigger" type="button" aria-expanded="false" aria-controls="shop-menu-panel">Shop</button>
+          <div class="shop-panel" id="shop-menu-panel">
+            <button class="shop-close" type="button" aria-label="Close shop menu">&times;</button>
+            <a class="shop-row" href="men-jeans.html"><span>Men</span><span aria-hidden="true">&rsaquo;</span></a>
+            <a class="shop-row" href="woman-jeans.html"><span>Woman</span><span aria-hidden="true">&rsaquo;</span></a>
+          </div>
+        </div>
       </nav>
       <a class="brand" href="index.html#top" aria-label="Shoppuno home">Shoppuno</a>
       <nav class="nav nav-right" aria-label="Site navigation">

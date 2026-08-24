@@ -97,9 +97,85 @@ a {
   text-decoration: none;
 }
 
+.shop-menu {
+  position: relative;
+}
+
+.shop-trigger,
+.shop-close {
+  border: 0;
+  color: inherit;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
+}
+
+.shop-trigger {
+  padding: 0;
+  font-weight: inherit;
+  text-transform: inherit;
+}
+
+.shop-panel {
+  position: absolute;
+  top: calc(100% + 18px);
+  left: 0;
+  z-index: 30;
+  display: grid;
+  width: min(360px, 82vw);
+  padding: 18px 18px 22px;
+  color: #0c0d0b;
+  background: #fbfaf7;
+  box-shadow: 0 26px 70px rgba(16, 20, 17, 0.22);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-8px);
+  transition: opacity 160ms ease, transform 160ms ease;
+}
+
+.shop-menu.is-open .shop-panel {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
+.shop-close {
+  justify-self: start;
+  margin: -6px 0 18px -4px;
+  color: #9b9187;
+  font-size: 1.45rem;
+  line-height: 1;
+}
+
+.shop-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 16px 0;
+  color: #050505;
+  font-size: clamp(1.2rem, 2.2vw, 1.55rem);
+  font-weight: 500;
+  line-height: 1.1;
+  text-decoration: none;
+  text-transform: none;
+}
+
+.shop-row + .shop-row {
+  border-top: 1px solid #e4ded5;
+}
+
+.shop-row span[aria-hidden="true"] {
+  color: #111;
+  font-size: 1.8rem;
+  line-height: 1;
+}
+
 .nav a:hover,
 .footer-links a:hover,
-.text-link:hover {
+.text-link:hover,
+.shop-trigger:hover,
+.shop-row:hover {
   color: var(--accent-2);
 }
 
@@ -1063,6 +1139,34 @@ h3 {
     padding: 12px 14px;
   }
 
+  .site-header.menu-open .shop-trigger {
+    width: 100%;
+    padding: 12px 14px;
+    color: var(--white);
+    text-align: left;
+  }
+
+  .site-header.menu-open .shop-panel {
+    position: static;
+    display: none;
+    width: 100%;
+    margin: 4px 0 8px;
+    box-shadow: none;
+    opacity: 1;
+    pointer-events: auto;
+    transform: none;
+  }
+
+  .site-header.menu-open .shop-menu.is-open .shop-panel {
+    display: grid;
+  }
+
+  .site-header.menu-open .nav .shop-row {
+    border-top: 0;
+    padding: 16px 0;
+    color: #050505;
+  }
+
   .section-heading.split,
   .product-layout,
   .newsletter,
@@ -1178,6 +1282,11 @@ h3 {
     border-top: 1px solid rgba(255, 255, 255, 0.14);
     padding: 13px 14px;
     color: var(--white);
+  }
+
+  .site-header.menu-open .nav .shop-row {
+    padding: 16px 0;
+    color: #050505;
   }
 
   .site-header.menu-open .nav a:first-child {
