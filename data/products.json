@@ -1365,6 +1365,34 @@
       "description": "Crafted from soft, velvety faux suede with a rich matte finish, this oversized bomber jacket offers a polished look while remaining lightweight and comfortable. It features a shirt collar, drop shoulders, zip-front closure, adjustable snap cuffs, roomy patch pockets, and an elasticized hem for a relaxed yet flattering shape. Easy to layer over turtlenecks, hoodies, dresses, jeans, leggings, or skirts, it's perfect for work, casual outings, dinner dates, travel, concerts, and everyday wear from fall through spring. Machine wash gently in a laundry bag and refer to the size chart before ordering.",
       "category": "woman-jackets",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4hTD9F1",
+      "color": "Light Grey",
+      "slug": "Men's Double-Waisted Camo Sweatpants",
+      "care": "MAchine Wash",
+      "sizes": [
+        "XX-Small",
+        "X-Small",
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        " XX-Large",
+        "3X-Large",
+        "4X-Large"
+      ],
+      "categoryLabel": "Activewear",
+      "title": "Men's Double-Waisted Camo Sweatpants",
+      "images": [
+        {
+          "src": "/assets/uploads/ws14-1-.jpg",
+          "alt": "v1"
+        }
+      ],
+      "description": "Made from soft, stretchy fabric for comfortable movement, these men's baggy sweatpants feature a unique double waistband with plaid and camo details, an adjustable drawstring, sporty side stripes, embroidery, and a small thigh logo. Perfect for casual wear, streetwear, parties, gym sessions, or lounging, they pair easily with a simple T-shirt or hoodie and your favorite sneakers. Please check the product size details before ordering.",
+      "category": "men-activewear",
+      "group": "Men"
     }
   ]
 }
