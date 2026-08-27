@@ -1393,6 +1393,29 @@
       "description": "Made from soft, stretchy fabric for comfortable movement, these men's baggy sweatpants feature a unique double waistband with plaid and camo details, an adjustable drawstring, sporty side stripes, embroidery, and a small thigh logo. Perfect for casual wear, streetwear, parties, gym sessions, or lounging, they pair easily with a simple T-shirt or hoodie and your favorite sneakers. Please check the product size details before ordering.",
       "category": "men-activewear",
       "group": "Men"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/3UmJdMt",
+      "color": "Dark Grey",
+      "slug": "womens-sherpa-cropped-jacket",
+      "care": "Machine Wash, Hand Wash Only",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large"
+      ],
+      "categoryLabel": "Jackets",
+      "title": "Women's Sherpa Cropped Jacket",
+      "images": [
+        {
+          "src": "/assets/uploads/ws141.jpg",
+          "alt": "v1"
+        }
+      ],
+      "description": "Made from soft and cozy polar fleece with a slight stretch, this cropped jacket provides warmth and comfort for everyday wear and outdoor activities. Featuring a full zip closure, stand collar, relaxed baggy fit, adjustable bungee hem, and cropped length, it offers a stylish and flattering silhouette that pairs perfectly with high-rise jeans, leggings, or pants. Ideal for walking, hiking, skiing, travel, daily commutes, and other cold-weather activities.",
+      "category": "woman-jackets",
+      "group": "Woman"
     }
   ]
 }
