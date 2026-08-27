@@ -1340,6 +1340,31 @@
       "description": "Made from high-quality fibers with a luxuriously soft feel, this women's chunky knit sweater provides cozy comfort and warmth for cooler weather. Featuring a mock neck, long sleeves, drop shoulders, ribbed details, contrast stitching, and an oversized loose fit, it creates a trendy yet relaxed silhouette. Easy to pair with jeans, pants, skirts, heels, sneakers, or boots, this versatile sweater is perfect for casual outings, work, dates, parties, and layering. Available in a variety of colors and sizes from S to XXL; please refer to the size chart before ordering.",
       "category": "woman-knitwear",
       "group": "Woman"
+    },
+    {
+      "affiliateUrl": "https://amzn.to/4qPI3Fp",
+      "color": "Black",
+      "slug": "womens-chunky-knit-pullover-sweater",
+      "fit": "Loose",
+      "care": "Machine WASH",
+      "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "X-Large",
+        "XX-Large"
+      ],
+      "categoryLabel": "Jackets",
+      "title": "GRACE KARIN Women's Faux Suede Jacket",
+      "images": [
+        {
+          "src": "/assets/uploads/ws14.jpg",
+          "alt": "v1"
+        }
+      ],
+      "description": "Crafted from soft, velvety faux suede with a rich matte finish, this oversized bomber jacket offers a polished look while remaining lightweight and comfortable. It features a shirt collar, drop shoulders, zip-front closure, adjustable snap cuffs, roomy patch pockets, and an elasticized hem for a relaxed yet flattering shape. Easy to layer over turtlenecks, hoodies, dresses, jeans, leggings, or skirts, it's perfect for work, casual outings, dinner dates, travel, concerts, and everyday wear from fall through spring. Machine wash gently in a laundry bag and refer to the size chart before ordering.",
+      "category": "woman-jackets",
+      "group": "Woman"
     }
   ]
 }
